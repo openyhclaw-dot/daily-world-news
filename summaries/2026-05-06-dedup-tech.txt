@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-05
+- DTCC 啟動代幣化證券平台、7 月試點 10 月正式上線  [13 億]
+- Shopify 與加拿大國家銀行領投 24/7 結算數位貨幣 NOMA  [230 萬]
+- OpenAI 公開低延遲語音 AI 後端架構：自建 WebRTC 取代第三方
+- OpenAI WebRTC 架構文公開
+- Gary Marcus：AI backlash 進入主流  [32% / 24%]
+- Simon Willison：TRE Python 綁定，ReDoS 抗性實測
+- Simon Willison：Redis Array Playground
+- 字節跳動「豆包」付費版價格曝光  [68 元 / 200 元 / 500 元]
+- OpenClaw v2026.5.4-beta.1
+- LangChain 釋出版：classic 1.0.5、anthropic 1.4.3、openrouter 0.2.3、mistralai 1.1.3
+- DTCC 7 月試點代幣化證券平台
+- Kraken 母公司 Payward 控告 Etana 監管詐欺 2,500 萬美元  [2,500 萬 / 5.5 億]
+- Trump 家族 World Liberty 反訴孫宇晨「誹謗」  [7,500 萬 / 9%]
+- Binance 推出 withdrawal lock 防 wrench attack
+- Hut 8 重整貸款：把 Coinbase 額度換成 FalconX 更便宜的安排  [7.5% / 5.4% / 1,800 萬]
+- 港交所擬重啟黃金期貨交易  [60 億]
+- 印度 Yotta IPO 前估值喊到 60 億美元  [60 億]
+- 全球首艘萬輛級汽車滚装船「格羅領航」首靠上海港
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+- BTC  [79,989 美元 / 1.85% / 2,353 美元]
+- ETH  [2,353 美元 / 1.38% / 2.38 億]
+- WTI 原油  [105.14 美元 / 3.14% / 114.03 美元]
+- Brent  [114.03 美元 / 5.42%]
+
+## 2026-05-04
+- Anthropic 公開 Claude 反阿諛分類器論文
+- MIT 研究解釋 LLM scaling law 為何「太準」
+- Sarvam AI 接近完成 3.5 億美元募資、估值衝破 15 億美元
+- Microsoft 偷加 Co-Authored-by Copilot、即使關閉 AI 也照塞
+- Ollama v0.23.0 正式版
+- Hugging Face Transformers v5.7.0
+- Salesforce Agentforce Operations 正式 GA  [70% / 80%]
+- KFTC（韓國金融電信清算院）公布 AI Agent 支付平台計畫
+- OpenClaw v2026.5.3-beta.1 發布
+- LangChain 連發 langchain-classic 1.0.5、langchain-anthropic 1.4.3、langchain-openrouter 0.2.3
+- 北韓恐怖主義債權人搶在 DeFi United 投票前申請扣押 Arbitrum 凍結的 Kelp DAO ETH
+- BlackRock 致函 OCC：請放棄代幣化準備金 20% 上限  [20%]
+- CryptoQuant：4 月比特幣漲勢是「投機性」、現貨需求疲軟  [20% / 77,000 美元]
+- CoinDesk 三篇民調連發
+- 「為什麼 TUI 又紅了」
+- Claude 案例研究：Kepler 用 Claude 建構金融服務「可驗證 AI」
+- BYOMesh：新 LoRa mesh radio 帶寬比現役方案高 100 倍
+- Bad Connection（Citizen Lab 報告）：covert surveillance actors 全球電信滲透
+- SpaceX Starship Flight 12 確定 5 月 12 日到 18 日窗口、22:30 UTC 開窗
+- 路透：水下機器人即時追蹤抹香鯨對話
+- CVE-2026-32202（Windows zero-click NTLM hash leak）5 月 12 日前必修
+- CVE-2026-33825（Microsoft Defender, BlueHammer）5 月 6 日截止 patch
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+
+## 2026-05-03
+- 五角大廈拍板 AI 採購、Anthropic 被踢出局
+- 巴西央行封死加密跨境支付通道  [90%]
+- CLARITY Act 收益條款談妥、參議院審議解凍  [78,000 美元 / 8%]
+- Anthropic 5 月 1 日對川普政府提兩起訴訟
+- Gary Marcus：「能讓測試通過 ≠ 能寫對程式碼」
+- Simon Willison：Anthropic 暗推 Claude 5 介面預覽 + Mythos 模型卡片更新
+- Gary Marcus 評「Claude Delusion」
+- AI Agent Q2 募資破 200 億美元、佔當季融資 47%  [200 億 / 426 億 / 47%]
+- Veritus 種子輪 1,010 萬美元、做語音優先放貸 agent
+- OpenClaw v2026.5.2-beta.1 釋出
+- 比特幣站上 78,469 美元；以太 2,310 美元  [0.37% / 0.68% / 1.26%]
+- Iran Nobitex 創辦團隊揭露：最高領袖政治世家後代
+- DeFi $292M 駭客事件後續：六大設計缺陷被點名  [480 億 / 500 億]
+- Bitcoin 量子抗性新提案：Satoshi 不需動 BTC 就能證明持有
+- 預測市場用戶量月增 22%、丟「賭場」標籤  [22%]
+- Trump 對歐盟車輛汽車關稅從 15% 拉到 25%  [150 億 / 175.8 億 / 300 億]
+- SpaceX Starship Flight 12 NET 5 月 12 日 22:30 UTC
+- CISA 把 CVE-2026-32202 列 KEV，5 月 12 日前必修
+- Microsoft Defender CVE-2026-33825 被野外利用提權至 SYSTEM
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+- langchain-ai/langchain
+- Simon Willison — Sightings (5/2)
+- Gary Marcus — Code that compiles ≠ correct code
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
