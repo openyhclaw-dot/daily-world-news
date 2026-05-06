@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-06
+- DeepSeek-V4 登場、Hugging Face Transformers v5.8.0 即刻支援
+- Ollama v0.23.1 把 Gemma 4 MTP 投機解碼塞進 MLX runner
+- Coinbase 裁員 14%、轉型「AI-native」公司  [1.14 億 / 8 萬]
+- Hugging Face Transformers v5.8.0 — DeepSeek-V4 支援
+- Ollama v0.23.1：Gemma 4 MTP 投機解碼正式支援
+- Y Combinator 持有 OpenAI 約 0.6% 股權，價值逾 50 億美元  [8,520 億 / 50 億]
+- IBM Granite 4.1 3B 釋出，Apache 2.0 授權
+- Simon Willison 連發兩個 datasette/llm 工具更新
+- OpenClaw 2026.5.4 正式版（脫 beta）
+- LangChain 一波修補：mistralai 1.1.4、fireworks 1.3.1
+- Gary Marcus：Autonomous Agents is a Shitshow  [30%]
+- Google Cloud + Solana Foundation 推 Pay.sh：AI agent 用穩定幣付 API
+- SoFi Bank 在 Solana 發 SoFiUSD 穩定幣
+- State Street + Galaxy 在 Solana 發代幣化現金管理基金  [20%]
+- a16z crypto 第五號基金 22 億美元 closed  [22 億]
+- Coinbase 裁員 14%（含「AI-native」轉型）；Cipher Digital Q1 虧 1.14 億  [8 萬]
+- MoonPay 收 DFlow（為 Coinbase / Phantom 服務的 Solana 撮合層）  [500 億 / 6.25 億]
+- IREN 6.25 億美元全股併購 Mirantis，押 AI 雲平台
+- 亞馬遜全面開放物流網路給第三方企業  [10% / 9% / 1.41%]
+- 比亞迪 4 月新能源車產量 32.23 萬輛、銷量 32.11 萬輛  [13.51 萬 / 102.16 萬 / 26.02%]
+- Securitize 攜 Jump + Jupiter 推「全鏈、合規」代幣化股票
+- SpaceX Starship Flight 12 進入 5 月 12–18 日窗口（延續）
+- CVE-2026-32202（Windows zero-click NTLM hash leak）今 5 月 6 日已是死線前 6 天
+- ollama/ollama
+- huggingface/transformers
+
+## 2026-05-05
+- DTCC 啟動代幣化證券平台、7 月試點 10 月正式上線  [13 億]
+- Shopify 與加拿大國家銀行領投 24/7 結算數位貨幣 NOMA  [230 萬]
+- OpenAI 公開低延遲語音 AI 後端架構：自建 WebRTC 取代第三方
+- OpenAI WebRTC 架構文公開
+- Gary Marcus：AI backlash 進入主流  [32% / 24%]
+- Simon Willison：TRE Python 綁定，ReDoS 抗性實測
+- Simon Willison：Redis Array Playground
+- 字節跳動「豆包」付費版價格曝光  [68 元 / 200 元 / 500 元]
+- OpenClaw v2026.5.4-beta.1
+- LangChain 釋出版：classic 1.0.5、anthropic 1.4.3、openrouter 0.2.3、mistralai 1.1.3
+- DTCC 7 月試點代幣化證券平台
+- Kraken 母公司 Payward 控告 Etana 監管詐欺 2,500 萬美元  [2,500 萬 / 5.5 億]
+- Trump 家族 World Liberty 反訴孫宇晨「誹謗」  [7,500 萬 / 9%]
+- Binance 推出 withdrawal lock 防 wrench attack
+- Hut 8 重整貸款：把 Coinbase 額度換成 FalconX 更便宜的安排  [7.5% / 5.4% / 1,800 萬]
+- 港交所擬重啟黃金期貨交易  [60 億]
+- 印度 Yotta IPO 前估值喊到 60 億美元  [60 億]
+- 全球首艘萬輛級汽車滚装船「格羅領航」首靠上海港
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+- BTC  [79,989 美元 / 1.85% / 2,353 美元]
+- ETH  [2,353 美元 / 1.38% / 2.38 億]
+- WTI 原油  [105.14 美元 / 3.14% / 114.03 美元]
+- Brent  [114.03 美元 / 5.42%]
+
+## 2026-05-04
+- Anthropic 公開 Claude 反阿諛分類器論文
+- MIT 研究解釋 LLM scaling law 為何「太準」
+- Sarvam AI 接近完成 3.5 億美元募資、估值衝破 15 億美元
+- Microsoft 偷加 Co-Authored-by Copilot、即使關閉 AI 也照塞
+- Ollama v0.23.0 正式版
+- Hugging Face Transformers v5.7.0
+- Salesforce Agentforce Operations 正式 GA  [70% / 80%]
+- KFTC（韓國金融電信清算院）公布 AI Agent 支付平台計畫
+- OpenClaw v2026.5.3-beta.1 發布
+- LangChain 連發 langchain-classic 1.0.5、langchain-anthropic 1.4.3、langchain-openrouter 0.2.3
+- 北韓恐怖主義債權人搶在 DeFi United 投票前申請扣押 Arbitrum 凍結的 Kelp DAO ETH
+- BlackRock 致函 OCC：請放棄代幣化準備金 20% 上限  [20%]
+- CryptoQuant：4 月比特幣漲勢是「投機性」、現貨需求疲軟  [20% / 77,000 美元]
+- CoinDesk 三篇民調連發
+- 「為什麼 TUI 又紅了」
+- Claude 案例研究：Kepler 用 Claude 建構金融服務「可驗證 AI」
+- BYOMesh：新 LoRa mesh radio 帶寬比現役方案高 100 倍
+- Bad Connection（Citizen Lab 報告）：covert surveillance actors 全球電信滲透
+- SpaceX Starship Flight 12 確定 5 月 12 日到 18 日窗口、22:30 UTC 開窗
+- 路透：水下機器人即時追蹤抹香鯨對話
+- CVE-2026-32202（Windows zero-click NTLM hash leak）5 月 12 日前必修
+- CVE-2026-33825（Microsoft Defender, BlueHammer）5 月 6 日截止 patch
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
