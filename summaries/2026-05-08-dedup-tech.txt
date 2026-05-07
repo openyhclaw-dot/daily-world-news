@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-07
+- Samsung 市值首破 1 兆美元，AI 記憶體狂潮把南韓國寶送進「兆元俱樂部」  [14% / 750% / 395 億]
+- SpaceX/Tesla/xAI 合資 Terafab 落腳德州，初期 550 億、總投資上看 1,190 億美元
+- Apple 為 Siri AI 跳票賠 2.5 億美元和解，每位 iPhone 16 用戶最高拿 95 美元  [2.5 億 / 25 美元 / 95 美元]
+- Anthropic Code w/ Claude 2026 SF 場 5/6 開幕，明年首度擴編至倫敦、東京三場
+- Simon Willison：vibe coding 與 agentic engineering 邊界正在崩解
+- Andon Labs 在斯德哥爾摩開「AI 經營咖啡店」實驗，AI 一上工就訂了 120 顆蛋
+- Hugging Face 對 Open ASR Leaderboard 加上「Benchmaxxer Repellant」
+- vLLM V0→V1 在 RL 訓練上的「先求對、再求修」研究
+- LangChain 1.3.0a2 alpha：`stream_events(version='v3')` 接進 `create_agent`
+- Gary Marcus 對 Musk vs OpenAI 庭審的兩個觀察
+- VanEck：BTC 5 年內可上看 100 萬美元，類比「電玩世代滲透」  [100 萬 / 7.7 萬]
+- Project Eleven 警告：Q-Day 最快 2030 到，690 萬枚 BTC 暴露在量子破解風險下  [690 萬 / 33%]
+- Hut 8 拿下 98 億美元 AI 資料中心合約，按 NVIDIA 規格客製，盤前股價飆 30%  [98 億]
+- Bitcoin Core 默默修補高風險 use-after-free 記憶體 bug，官方揭露時許多節點仍未升級
+- PyTorch viable/strict 一日三波合併：DDP buffer sync、c10d collectives functionalize、ProcessGroup standalone_compile
+- 三星市值破 1 兆連動：KOSPI 首度站上 7,000 點，36 氪「氪星晚報」綜合報導  [840 億 / 4.21 億]
+- Core Scientific 4.21 億全股併購比特幣礦工 Polaris，把奧克拉荷馬 40 英畝、40 MW 容量的場地併入 AI 資料中心地圖
+- SpaceX Terafab 同步推進，Grimes 郡 6/3 上午 9 點開公聽會
+- iPhone 18 Pro 起價據傳衝上 8,999 人民幣，分析師指策略「激進」  [8,999 元 / 2.5 億]
+- 一加 Ace 6 至尊版 4/28 發表：天璣 9500、自研「風馳遊戲內核」165 fps、8600 mAh + 120W  [23%]
+- ESET：朝鮮 ScarCruft APT 在延邊地區用後門化的 Windows / Android 遊戲做供應鏈攻擊
+- langchain-ai/langchain
+- openclaw/openclaw
+- pytorch/pytorch
+- Simon Willison — Code w/ Claude 2026 live blog
+
+## 2026-05-06
+- DeepSeek-V4 登場、Hugging Face Transformers v5.8.0 即刻支援
+- Ollama v0.23.1 把 Gemma 4 MTP 投機解碼塞進 MLX runner
+- Coinbase 裁員 14%、轉型「AI-native」公司  [1.14 億 / 8 萬]
+- Hugging Face Transformers v5.8.0 — DeepSeek-V4 支援
+- Ollama v0.23.1：Gemma 4 MTP 投機解碼正式支援
+- Y Combinator 持有 OpenAI 約 0.6% 股權，價值逾 50 億美元  [8,520 億 / 50 億]
+- IBM Granite 4.1 3B 釋出，Apache 2.0 授權
+- Simon Willison 連發兩個 datasette/llm 工具更新
+- OpenClaw 2026.5.4 正式版（脫 beta）
+- LangChain 一波修補：mistralai 1.1.4、fireworks 1.3.1
+- Gary Marcus：Autonomous Agents is a Shitshow  [30%]
+- Google Cloud + Solana Foundation 推 Pay.sh：AI agent 用穩定幣付 API
+- SoFi Bank 在 Solana 發 SoFiUSD 穩定幣
+- State Street + Galaxy 在 Solana 發代幣化現金管理基金  [20%]
+- a16z crypto 第五號基金 22 億美元 closed  [22 億]
+- Coinbase 裁員 14%（含「AI-native」轉型）；Cipher Digital Q1 虧 1.14 億  [8 萬]
+- MoonPay 收 DFlow（為 Coinbase / Phantom 服務的 Solana 撮合層）  [500 億 / 6.25 億]
+- IREN 6.25 億美元全股併購 Mirantis，押 AI 雲平台
+- 亞馬遜全面開放物流網路給第三方企業  [10% / 9% / 1.41%]
+- 比亞迪 4 月新能源車產量 32.23 萬輛、銷量 32.11 萬輛  [13.51 萬 / 102.16 萬 / 26.02%]
+- Securitize 攜 Jump + Jupiter 推「全鏈、合規」代幣化股票
+- SpaceX Starship Flight 12 進入 5 月 12–18 日窗口（延續）
+- CVE-2026-32202（Windows zero-click NTLM hash leak）今 5 月 6 日已是死線前 6 天
+- ollama/ollama
+- huggingface/transformers
+
+## 2026-05-05
+- DTCC 啟動代幣化證券平台、7 月試點 10 月正式上線  [13 億]
+- Shopify 與加拿大國家銀行領投 24/7 結算數位貨幣 NOMA  [230 萬]
+- OpenAI 公開低延遲語音 AI 後端架構：自建 WebRTC 取代第三方
+- OpenAI WebRTC 架構文公開
+- Gary Marcus：AI backlash 進入主流  [32% / 24%]
+- Simon Willison：TRE Python 綁定，ReDoS 抗性實測
+- Simon Willison：Redis Array Playground
+- 字節跳動「豆包」付費版價格曝光  [68 元 / 200 元 / 500 元]
+- OpenClaw v2026.5.4-beta.1
+- LangChain 釋出版：classic 1.0.5、anthropic 1.4.3、openrouter 0.2.3、mistralai 1.1.3
+- DTCC 7 月試點代幣化證券平台
+- Kraken 母公司 Payward 控告 Etana 監管詐欺 2,500 萬美元  [2,500 萬 / 5.5 億]
+- Trump 家族 World Liberty 反訴孫宇晨「誹謗」  [7,500 萬 / 9%]
+- Binance 推出 withdrawal lock 防 wrench attack
+- Hut 8 重整貸款：把 Coinbase 額度換成 FalconX 更便宜的安排  [7.5% / 5.4% / 1,800 萬]
+- 港交所擬重啟黃金期貨交易  [60 億]
+- 印度 Yotta IPO 前估值喊到 60 億美元  [60 億]
+- 全球首艘萬輛級汽車滚装船「格羅領航」首靠上海港
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+- BTC  [79,989 美元 / 1.85% / 2,353 美元]
+- ETH  [2,353 美元 / 1.38% / 2.38 億]
+- WTI 原油  [105.14 美元 / 3.14% / 114.03 美元]
+- Brent  [114.03 美元 / 5.42%]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
