@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-09
+- Canvas 教育平台遭勒索，全美 9,000 所學校停課  [2.75 億]
+- Coinbase 把 BTC 跌破 8 萬美元歸咎於 AWS 故障，盤中清算 3 億美元期貨多單  [8 萬 / 3 億]
+- Kraken 母公司 Payward 申請 OCC 國家信託銀行執照
+- OpenAI 公開 Codex 內部 sandbox 安全架構
+- Hugging Face × AllenAI：EMO — 透過預訓練催生「自然湧現的模組化」MoE
+- Gary Marcus：MIT 研究再次戳破「Agent ROI 神話」
+- ollama v0.30.0-rc7
+- CyberSecQwen-4B：4B 參數的本地防禦型小模型
+- LangChain 1.2.18 + 1.3.0a 雙線並進
+- OpenClaw 2026.5.7 正式版發布
+- 小紅書 Dots 部門成立
+- SEC 主席 Atkins 預告鏈上市場與 AI 金融新規
+- Lagarde 警告穩定幣「數位美元化」風險
+- Zcash 一個月內推出「量子可恢復」錢包，2027 全面量子防護
+- 美國 4 月新增非農 11.5 萬，幾乎是預期兩倍  [4.1% / 8 萬]
+- Stablecoin 簽帳卡支付年增 100%
+- Plaud 估值衝上 20 億美元，傳與騰訊會議談硬體合作  [5,600 萬 / 20% / 10 億]
+- 清華系 AI Infra 廠「容芯致遠」拿下數億元天使輪  [0.023%]
+- 「純鋰新能源」第一代全固態電池量產  [0.023%]
+- 維新宇航 7 座 3 噸級 eVTOL Vector 5 將於 7 月首飛  [30 萬 / 25.98 萬]
+- 問界 M6 切入 25-30 萬元級 SUV 紅海  [25.98 萬]
+- ollama/ollama
+- langchain-ai/langchain
+- openclaw/openclaw
+- crewAIInc/crewAI
+
+## 2026-05-08
+- Anthropic 與 xAI 簽下 Colossus 資料中心全部容量
+- Kalshi 完成 10 億美元 F 輪、估值衝上 220 億美元  [10 億 / 220 億 / 800%]
+- Hugging Face Transformers v5.8.0 正式支援 DeepSeek-V4
+- Ollama 推進 v0.30.0-rc5
+- Mozilla 用 Claude Mythos preview 替 Firefox 抓出數百個漏洞
+- Anthropic 發表「Natural Language Autoencoders」研究
+- LangChain core 0.3.86 緊急回補 CVE-2026-34070 路徑穿越漏洞
+- LangChain Classic 1.0.7 開始 deprecate hub 模組
+- OpenClaw 2026.5.7-beta.1  [300 億]
+- JPMorgan：Strategy 今年比特幣買盤可能上看 300 億美元  [110 億]
+- 美國財政部要求 Binance 全面遵守監控協議，傳逾 10 億美元流入伊朗相關地址
+- AWS 串接 Coinbase 與 Stripe，為 AI agent 鋪 USDC 支付軌  [6 億]
+- Kraken 母公司 Payward 6 億美元收購香港穩定幣公司 Reap  [1 萬]
+- ZachXBT 公開 1 萬美元懸賞 LAB 等項目操盤證據
+- Dirtyfrag：通殺 Linux 的本地提權漏洞
+- 「AI Slop 正在殺死網路社群」
+- 巴西 Pix 支付承壓：Visa、Mastercard 透過貿易渠道遊說華府
+- Bitdeer Q1 AI Cloud ARR 衝上 4,300 萬美元，月增 105%  [27 美元]
+- LangChain CVE-2026-34070
+- ollama/ollama
+- langchain-ai/langchain
+- huggingface/transformers
+- openclaw/openclaw
+- Simon Willison — Big Words
+- Simon Willison — GitHub Repo Stats
+
+## 2026-05-07
+- Samsung 市值首破 1 兆美元，AI 記憶體狂潮把南韓國寶送進「兆元俱樂部」  [14% / 750% / 395 億]
+- SpaceX/Tesla/xAI 合資 Terafab 落腳德州，初期 550 億、總投資上看 1,190 億美元
+- Apple 為 Siri AI 跳票賠 2.5 億美元和解，每位 iPhone 16 用戶最高拿 95 美元  [2.5 億 / 25 美元 / 95 美元]
+- Anthropic Code w/ Claude 2026 SF 場 5/6 開幕，明年首度擴編至倫敦、東京三場
+- Simon Willison：vibe coding 與 agentic engineering 邊界正在崩解
+- Andon Labs 在斯德哥爾摩開「AI 經營咖啡店」實驗，AI 一上工就訂了 120 顆蛋
+- Hugging Face 對 Open ASR Leaderboard 加上「Benchmaxxer Repellant」
+- vLLM V0→V1 在 RL 訓練上的「先求對、再求修」研究
+- LangChain 1.3.0a2 alpha：`stream_events(version='v3')` 接進 `create_agent`
+- Gary Marcus 對 Musk vs OpenAI 庭審的兩個觀察
+- VanEck：BTC 5 年內可上看 100 萬美元，類比「電玩世代滲透」  [100 萬 / 7.7 萬]
+- Project Eleven 警告：Q-Day 最快 2030 到，690 萬枚 BTC 暴露在量子破解風險下  [690 萬 / 33%]
+- Hut 8 拿下 98 億美元 AI 資料中心合約，按 NVIDIA 規格客製，盤前股價飆 30%  [98 億]
+- Bitcoin Core 默默修補高風險 use-after-free 記憶體 bug，官方揭露時許多節點仍未升級
+- PyTorch viable/strict 一日三波合併：DDP buffer sync、c10d collectives functionalize、ProcessGroup standalone_compile
+- 三星市值破 1 兆連動：KOSPI 首度站上 7,000 點，36 氪「氪星晚報」綜合報導  [840 億 / 4.21 億]
+- Core Scientific 4.21 億全股併購比特幣礦工 Polaris，把奧克拉荷馬 40 英畝、40 MW 容量的場地併入 AI 資料中心地圖
+- SpaceX Terafab 同步推進，Grimes 郡 6/3 上午 9 點開公聽會
+- iPhone 18 Pro 起價據傳衝上 8,999 人民幣，分析師指策略「激進」  [8,999 元 / 2.5 億]
+- 一加 Ace 6 至尊版 4/28 發表：天璣 9500、自研「風馳遊戲內核」165 fps、8600 mAh + 120W  [23%]
+- ESET：朝鮮 ScarCruft APT 在延邊地區用後門化的 Windows / Android 遊戲做供應鏈攻擊
+- langchain-ai/langchain
+- openclaw/openclaw
+- pytorch/pytorch
+- Simon Willison — Code w/ Claude 2026 live blog
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
