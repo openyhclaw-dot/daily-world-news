@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-10
+- DeepSeek 首輪募資衝上 73.5 億美元，估值上看 450 億  [200 億]
+- Anthropic 跟 Google 簽 2,000 億美元、5GW TPU 算力大單  [100 億 / 400 億 / 90 億]
+- Canvas 教育平台勒索事件擴大，全美 9,000 校受波及
+- ollama 推進到 v0.30.0-rc11
+- PyTorch viable/strict 一日四連發
+- Simon Willison：用 Claude Code 寫 HTML 「不講道理地有效」
+- OncoAgent：雙層多 agent 框架做隱私保護腫瘤臨床決策
+- LangChain 1.2.18：撤回 ls_agent_type tag、棄用 hub 模組
+- OpenClaw 2026.5.9-beta.1
+- CrewAI 1.14.5a4
+- LayerZero 公開道歉：Kelp DAO 2.92 億美元被駭，single-verifier 設計失誤
+- Senate Banking Committee 重訂日期，準備二讀加密大法
+- CryptoQuant：BTC「熊市反彈」中，獲利了結恐加速  [80,929 美元 / 0.93% / 2,333 美元]
+- 瑞士央行 BTC 國庫公投連署失敗
+- CME 推 BTC 波動率衍生品
+- DeepSeek 募資（見頭條）
+- AI 開始接管年輕人的「精神自留地」
+- Pentagon 跟 8 大科技簽 AI 評估協議，獨缺 Anthropic
+- 北辰航天天使輪數千萬人民幣，雲啟資本獨投
+- 星識科技連發兩輪，浙大 00 後切「遠景觀測 AI 智能影像」
+- SpaceX Starship Flight 12 鎖定 5月15日，V3 首飛
+- Anthropic Code w/ Claude 2026 SF 開幕
+- Canvas 勒索事件（見頭條）
+- LangChain CVE-2026-34070 路徑穿越漏洞，core 0.3.86 修補
+- ollama/ollama
+
+## 2026-05-09
+- Canvas 教育平台遭勒索，全美 9,000 所學校停課  [2.75 億]
+- Coinbase 把 BTC 跌破 8 萬美元歸咎於 AWS 故障，盤中清算 3 億美元期貨多單  [8 萬 / 3 億]
+- Kraken 母公司 Payward 申請 OCC 國家信託銀行執照
+- OpenAI 公開 Codex 內部 sandbox 安全架構
+- Hugging Face × AllenAI：EMO — 透過預訓練催生「自然湧現的模組化」MoE
+- Gary Marcus：MIT 研究再次戳破「Agent ROI 神話」
+- ollama v0.30.0-rc7
+- CyberSecQwen-4B：4B 參數的本地防禦型小模型
+- LangChain 1.2.18 + 1.3.0a 雙線並進
+- OpenClaw 2026.5.7 正式版發布
+- 小紅書 Dots 部門成立
+- SEC 主席 Atkins 預告鏈上市場與 AI 金融新規
+- Lagarde 警告穩定幣「數位美元化」風險
+- Zcash 一個月內推出「量子可恢復」錢包，2027 全面量子防護
+- 美國 4 月新增非農 11.5 萬，幾乎是預期兩倍  [4.1% / 8 萬]
+- Stablecoin 簽帳卡支付年增 100%
+- Plaud 估值衝上 20 億美元，傳與騰訊會議談硬體合作  [5,600 萬 / 20% / 10 億]
+- 清華系 AI Infra 廠「容芯致遠」拿下數億元天使輪  [0.023%]
+- 「純鋰新能源」第一代全固態電池量產  [0.023%]
+- 維新宇航 7 座 3 噸級 eVTOL Vector 5 將於 7 月首飛  [30 萬 / 25.98 萬]
+- 問界 M6 切入 25-30 萬元級 SUV 紅海  [25.98 萬]
+- ollama/ollama
+- langchain-ai/langchain
+- openclaw/openclaw
+- crewAIInc/crewAI
+
+## 2026-05-08
+- Anthropic 與 xAI 簽下 Colossus 資料中心全部容量
+- Kalshi 完成 10 億美元 F 輪、估值衝上 220 億美元  [10 億 / 220 億 / 800%]
+- Hugging Face Transformers v5.8.0 正式支援 DeepSeek-V4
+- Ollama 推進 v0.30.0-rc5
+- Mozilla 用 Claude Mythos preview 替 Firefox 抓出數百個漏洞
+- Anthropic 發表「Natural Language Autoencoders」研究
+- LangChain core 0.3.86 緊急回補 CVE-2026-34070 路徑穿越漏洞
+- LangChain Classic 1.0.7 開始 deprecate hub 模組
+- OpenClaw 2026.5.7-beta.1  [300 億]
+- JPMorgan：Strategy 今年比特幣買盤可能上看 300 億美元  [110 億]
+- 美國財政部要求 Binance 全面遵守監控協議，傳逾 10 億美元流入伊朗相關地址
+- AWS 串接 Coinbase 與 Stripe，為 AI agent 鋪 USDC 支付軌  [6 億]
+- Kraken 母公司 Payward 6 億美元收購香港穩定幣公司 Reap  [1 萬]
+- ZachXBT 公開 1 萬美元懸賞 LAB 等項目操盤證據
+- Dirtyfrag：通殺 Linux 的本地提權漏洞
+- 「AI Slop 正在殺死網路社群」
+- 巴西 Pix 支付承壓：Visa、Mastercard 透過貿易渠道遊說華府
+- Bitdeer Q1 AI Cloud ARR 衝上 4,300 萬美元，月增 105%  [27 美元]
+- LangChain CVE-2026-34070
+- ollama/ollama
+- langchain-ai/langchain
+- huggingface/transformers
+- openclaw/openclaw
+- Simon Willison — Big Words
+- Simon Willison — GitHub Repo Stats
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
