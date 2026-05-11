@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-11
+- OpenAI 推出 GPT-5.5 Instant，今日起全面取代 GPT-5.3 Instant 成為 ChatGPT 預設模型  [52.5%]
+- OpenAI 同日推三款 Realtime 語音模型：GPT-Realtime-2、Translate、Whisper
+- Cushman & Wakefield 遭 ShinyHunters 攻陷，逾 50 萬筆 Salesforce 紀錄外洩
+- Counterpoint Research：Anthropic Q1 2026 LLM 營收市佔 31.4%，首次超越 OpenAI 的 29%  [1.34 億 / 16.20 美元 / 9 億]
+- HuggingFace Transformers v5.8.0 正式版納入 DeepSeek-V4
+- Simon Willison 引述 Andrew Quinn：在 LLM 時代，年輕程式工作者的「無力感與罪惡感」首次消失
+- Gary Marcus 拆解 METR 最新 "time horizon" 圖表
+- HuggingFace Blog：MachinaCheck 多 agent CNC 製造性檢查系統，跑在 AMD MI300X 上
+- ollama v0.30.0-rc11 釋出
+- Microsoft Agent 365 五月更新：Defender 進場、Registry Sync 初版串接 AWS 與 GCP
+- OpenAI Agents SDK 加入原生 sandbox 執行、可配置記憶、檔案/工具 workflow 原語
+- LangChain 1.2.18 正式釋出，撤回上版的 `ls_agent_type` tag，langchain-classic 開始 deprecate `hub` 模組
+- CrewAI 1.14.5a4
+- CoinDesk：PayPal 與 Google 在 Consensus Miami 表態「agentic commerce 終將跑在加密軌道上」
+- The Block：Canton Network 開發商 Digital Asset 傳募 3 億美元，估值上看 20 億，a16z crypto 領投
+- The Block：Arbitrum 7,100 萬美元 ETH 經 Aave 轉移獲法院放行，北韓恐怖主義債權人保留法律請求權
+- BlackRock 申請擴充代幣化基金產品線  [200%]
+- CoinDesk：Bored Ape NFT 久違回暖
+- GrapheneOS 公開撰文：硬體 attestation 正成為平台壟斷的新工具
+- Spain：歐洲最便宜的電力市場之一  [40%]
+- Local AI needs to be the norm
+- Chrome AI 功能正吃掉 4GB 本機儲存
+- SpaceX Starship Flight 12 鎖定 5月12日從 Starbase Pad 2 升空
+- AISB Network 啟動 OpenFold3 訓練：以多家藥廠專屬 protein-ligand 結構資料聯訓
+- AirPods Max 2 今日（5月11日）開始送達美國首批訂單
+
+## 2026-05-10
+- DeepSeek 首輪募資衝上 73.5 億美元，估值上看 450 億  [200 億]
+- Anthropic 跟 Google 簽 2,000 億美元、5GW TPU 算力大單  [100 億 / 400 億 / 90 億]
+- Canvas 教育平台勒索事件擴大，全美 9,000 校受波及
+- ollama 推進到 v0.30.0-rc11
+- PyTorch viable/strict 一日四連發
+- Simon Willison：用 Claude Code 寫 HTML 「不講道理地有效」
+- OncoAgent：雙層多 agent 框架做隱私保護腫瘤臨床決策
+- LangChain 1.2.18：撤回 ls_agent_type tag、棄用 hub 模組
+- OpenClaw 2026.5.9-beta.1
+- CrewAI 1.14.5a4
+- LayerZero 公開道歉：Kelp DAO 2.92 億美元被駭，single-verifier 設計失誤
+- Senate Banking Committee 重訂日期，準備二讀加密大法
+- CryptoQuant：BTC「熊市反彈」中，獲利了結恐加速  [80,929 美元 / 0.93% / 2,333 美元]
+- 瑞士央行 BTC 國庫公投連署失敗
+- CME 推 BTC 波動率衍生品
+- DeepSeek 募資（見頭條）
+- AI 開始接管年輕人的「精神自留地」
+- Pentagon 跟 8 大科技簽 AI 評估協議，獨缺 Anthropic
+- 北辰航天天使輪數千萬人民幣，雲啟資本獨投
+- 星識科技連發兩輪，浙大 00 後切「遠景觀測 AI 智能影像」
+- SpaceX Starship Flight 12 鎖定 5月15日，V3 首飛
+- Anthropic Code w/ Claude 2026 SF 開幕
+- Canvas 勒索事件（見頭條）
+- LangChain CVE-2026-34070 路徑穿越漏洞，core 0.3.86 修補
+- ollama/ollama
+
+## 2026-05-09
+- Canvas 教育平台遭勒索，全美 9,000 所學校停課  [2.75 億]
+- Coinbase 把 BTC 跌破 8 萬美元歸咎於 AWS 故障，盤中清算 3 億美元期貨多單  [8 萬 / 3 億]
+- Kraken 母公司 Payward 申請 OCC 國家信託銀行執照
+- OpenAI 公開 Codex 內部 sandbox 安全架構
+- Hugging Face × AllenAI：EMO — 透過預訓練催生「自然湧現的模組化」MoE
+- Gary Marcus：MIT 研究再次戳破「Agent ROI 神話」
+- ollama v0.30.0-rc7
+- CyberSecQwen-4B：4B 參數的本地防禦型小模型
+- LangChain 1.2.18 + 1.3.0a 雙線並進
+- OpenClaw 2026.5.7 正式版發布
+- 小紅書 Dots 部門成立
+- SEC 主席 Atkins 預告鏈上市場與 AI 金融新規
+- Lagarde 警告穩定幣「數位美元化」風險
+- Zcash 一個月內推出「量子可恢復」錢包，2027 全面量子防護
+- 美國 4 月新增非農 11.5 萬，幾乎是預期兩倍  [4.1% / 8 萬]
+- Stablecoin 簽帳卡支付年增 100%
+- Plaud 估值衝上 20 億美元，傳與騰訊會議談硬體合作  [5,600 萬 / 20% / 10 億]
+- 清華系 AI Infra 廠「容芯致遠」拿下數億元天使輪  [0.023%]
+- 「純鋰新能源」第一代全固態電池量產  [0.023%]
+- 維新宇航 7 座 3 噸級 eVTOL Vector 5 將於 7 月首飛  [30 萬 / 25.98 萬]
+- 問界 M6 切入 25-30 萬元級 SUV 紅海  [25.98 萬]
+- ollama/ollama
+- langchain-ai/langchain
+- openclaw/openclaw
+- crewAIInc/crewAI
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
