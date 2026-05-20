@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-20
+- CISA 包商在 GitHub 公開外洩 GovCloud 管理員憑證，被稱「職業生涯最慘洩漏」
+- CFTC 反告明尼蘇達州，挑戰首例「明文禁止 prediction market」的州法
+- 穩定幣總供給站上 3000 億美元，但成長停滯，Tether 又把對手吃掉一塊
+- Ollama v0.30.0 RC20 推進到 RC 階段
+- Simon Willison：過去六個月 LLMs 五分鐘濃縮版
+- HuggingFace Transformers v5.8.1 patch：DeepSeek V4 整合修復
+- Anthropic 訊號：下一代焦點是降低 agentic workflow 的 20–30% 失敗率
+- LangChain `langchain-tests==1.1.8` hotfix
+- openclaw 2026.5.19-beta.1：強化 plugin SDK 棄用路徑
+- Dify v1.14.2：安全強化 + Agent 工作流地基
+- CrewAI 1.14.5：把 `AgentExecutor` 提升為預設
+- Deloitte 吸收 Blocknative 團隊，加密基建公司結束營業
+- 穩定幣基建新創 Checker 完成 800 萬美元募資  [800 萬]
+- 比特幣再守 76,800 美元，山寨幣全面走弱  [76,770 美元 / 0.24% / 2,110 美元]
+- Bitcoin-focused DeFi 協議在 Monad 上被駭，7700 萬美元 eBTC 被超發  [7700 萬 / 7,700 萬]
+- 參議院銀行委員會民主黨首席質詢 OCC：9 家加密公司憑什麼拿到 charter？
+- SpaceX 5-for-1 拆股完成，IPO 衝刺 6 月 12 日 Nasdaq 掛牌  [526.59 美元 / 105.32 美元 / 75 億]
+- 賈躍亭 Faraday Future 再融 7000 萬美元（4.77 億人民幣）  [7000 萬]
+- 鯨躍動力獲星海圖數千萬人民幣種子輪，主打「Robo Labor」訂閱模式  [97.41 億]
+- 影石（Insta360）首份上市後年報：營收 97.41 億人民幣、年增 74.76%，但歸母淨利下滑 6.62%  [393 萬 / 76% / 2,169 元]
+- NUVA 帶 190 億美元 Figure Technologies tokenized RWA 上線  [40%]
+- BSC 量子安全測試通過，但交易資料變大讓吞吐量掉 40%  [40% / 40%]
+- SpaceX 6/12 Nasdaq 掛牌倒數 — IPO 將是 2026 年最大事件之一  [75 億]
+- Bilibili Q1 營收 74.7 億人民幣，調整後淨利 5.9 億、年增 62%  [1.15 億 / 8% / 37.1%]
+- CISA `Private-CISA` repo 外洩：844 MB git history 中含 GovCloud admin keys、明文密碼 CSV、build/log
+
+## 2026-05-19
+- Strategy 再買 24,869 顆比特幣、總部位破 4% 全球供應  [20 億 / 2,100 萬 / 4%]
+- Ollama v0.30.0 RC：直接接 llama.cpp、原生支援 GGUF、Apple Silicon 用 MLX 加速
+- HIVE 股價飆 35%：多倫多 320MW「AI 千兆工廠」拚 10 萬張 GPU  [10 萬 / 35%]
+- HuggingFace Transformers v5.8.1 patch
+- NVIDIA Cosmos Predict 2.5 × LoRA/DoRA：機器人影片生成微調
+- PaddleOCR 3.5 改用 Transformers backend
+- Gary Marcus：Musk v. Altman 世紀 AI 訟案以「無聲收場」結案
+- IBM 推 Open Agent Leaderboard
+- Andon Labs：四個 AI agent 自主經營電台「Andon FM」
+- AEON 完成 800 萬美元種子輪，YZi Labs 領投：要做 AI Agent 結算層  [800 萬]
+- 以太坊基金會再有兩名研究員辭職
+- 加密 ETP 上週淨流出突破 10 億美元、6 週淨流入連勝告終
+- Bitmine 以太坊金庫衝到 528 萬顆 ETH，總持倉破 126 億美元  [528 萬 / 4.37%]
+- Standard Chartered 將 Zodia Custody 加密業務吸收進自家營運
+- 美國加密 ATM 龍頭 Bitcoin Depot 聲請 Chapter 11 結束營業
+- Odyssey 發布 Agora-1：多 Agent 世界模型
+- Modal：用 lazy paging、FUSE、CUDA-checkpoint 把 inference 冷啟動砍 40 倍
+- Haiku OS 跑上 M1 Mac
+- ollama/ollama
+- openclaw/openclaw
+- crewAIInc/crewAI
+- langgenius/dify
+- Simon Willison
+- Gary Marcus
+- Modal  [76,940 美元 / 0.63%]
+
+## 2026-05-18
+- Goldman Sachs 向 SEC 遞件申請現貨比特幣 ETF
+- SpaceX 拆股 1:5、最快 5月20日遞招股書
+- Peter Steinberger：3 人帶 100 個 AI 工程師，一個月燒 130 萬美元  [1,305,088.81 美元 / 6,030 億 / 760 萬]
+- Ollama v0.25.0-rc0 釋出
+- GDS 介入英國 NHS 退出開源爭議
+- Gary Marcus：generative AI 的幻覺、hyperscaling 的瘋狂
+- OpenClaw 2026.5.16-beta.5
+- LlamaIndex v0.14.22
+- Dify v1.14.1 安全強化
+- CrewAI 1.14.5a6
+- 日本 SBI、樂天證券自建加密信託
+- CLARITY Act 進參議院遇逾 100 條修正案
+- VanEck、Grayscale 重提 BNB 現貨 ETF 修正書
+- Ethereum 客戶端 v1.17.3「Enzymatic Injector」上線
+- 俄羅斯穩定幣聲稱「制裁解除也能活」
+- Shokz 韶音：開放式耳機在中國突破 30% 市佔，正面挑戰 TWS  [30% / 5,542 億]
+- 立訊精密創歷史新高，王來春身價破千億人民幣  [5,542 億 / 18.75% / 55%]
+- 怡和集團出售 KFC/Pizza Hut 港澳台緬越 1,000 家門店  [4 億 / 28 億]
+- academic-research-skills GitHub 6.4k stars
+- ollama/ollama
+- openclaw/openclaw
+- ethereum/go-ethereum
+- Simon Willison：GDS weighs in on NHS open source retreat
+- Gary Marcus：The illusion of Generative AI  [130 萬 / 6,030 億 / 760 萬]
+- Peter Steinberger：130 萬美元的一個月  [6,030 億 / 760 萬 / 0.33%]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
