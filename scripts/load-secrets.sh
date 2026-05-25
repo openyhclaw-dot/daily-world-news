@@ -28,13 +28,59 @@ if [ -f "${HOME}/.config/op/env" ]; then
   source "${HOME}/.config/op/env"
 fi
 
-# Try loading OP_SERVICE_ACCOUNT_TOKEN from .env if not already set
-if [ -z "${OP_SERVICE_ACCOUNT_TOKEN:-}" ] && [ -f "${PROJECT_ROOT}/.env" ]; then
-  TOKEN=$(grep '^OP_SERVICE_ACCOUNT_TOKEN=' "${PROJECT_ROOT}/.env" | cut -d= -f2-)
-  if [ -n "$TOKEN" ]; then
-    export OP_SERVICE_ACCOUNT_TOKEN="$TOKEN"
-    echo "🔑 OP_SERVICE_ACCOUNT_TOKEN loaded from .env" >&2
+load_env_file() {
+  local file="$1"
+  [ -f "$file" ] || return 0
+
+  while IFS= read -r line || [ -n "$line" ]; do
+    case "$line" in
+      ""|\#*) continue ;;
+      export\ *) line="${line#export }" ;;
+    esac
+    case "$line" in
+      *=*) ;;
+      *) continue ;;
+    esac
+
+    local key="${line%%=*}"
+    local value="${line#*=}"
+    case "$key" in
+      OP_SERVICE_ACCOUNT_TOKEN|TELEGRAM_BOT_TOKEN|TG_BOT_DEFAULT|TELEGRAM_CHAT_ID|BRIGHTDATA_API_TOKEN|R2_API_TOKEN|R2_ACCOUNT_ID|R2_BUCKET)
+        value="${value%\"}"
+        value="${value#\"}"
+        value="${value%\'}"
+        value="${value#\'}"
+        export "${key}=${value}"
+        ;;
+    esac
+  done < "$file"
+}
+
+# Codex automations run from the skill directory. Prefer the local project
+# .env, then keep the historical parent .env fallback.
+load_env_file "${SKILL_DIR}/.env"
+load_env_file "${PROJECT_ROOT}/.env"
+
+if [ -n "${OP_SERVICE_ACCOUNT_TOKEN:-}" ]; then
+  echo "🔑 OP_SERVICE_ACCOUNT_TOKEN loaded from local env" >&2
+fi
+
+export TELEGRAM_BOT_TOKEN="${TELEGRAM_BOT_TOKEN:-${TG_BOT_DEFAULT:-}}"
+export TELEGRAM_CHAT_ID="${TELEGRAM_CHAT_ID:--1003767828002}"
+export R2_BUCKET="${R2_BUCKET:-ai-podcast}"
+
+has_local_secrets=1
+for VAR in TELEGRAM_BOT_TOKEN R2_API_TOKEN R2_ACCOUNT_ID; do
+  eval "VAL=\${${VAR}:-}"
+  if [ -z "$VAL" ]; then
+    has_local_secrets=0
+    break
   fi
+done
+
+if [ "$has_local_secrets" -eq 1 ]; then
+  echo "✅ Secrets loaded from local env" >&2
+  return 0 2>/dev/null || exit 0
 fi
 
 # 檢查 op CLI
@@ -44,8 +90,15 @@ if ! command -v op &>/dev/null; then
 fi
 
 # 檢查登入狀態
-if ! op whoami &>/dev/null 2>&1; then
+OP_WHOAMI_ERR="$(op whoami 2>&1 >/dev/null || true)"
+if [ -n "$OP_WHOAMI_ERR" ]; then
+  if echo "$OP_WHOAMI_ERR" | grep -Eqi 'lookup|no such host|Could not resolve|network|dial tcp'; then
+    echo "ERROR: 1Password network/DNS unavailable in current sandbox. Re-run with network/full-access sandbox." >&2
+    echo "$OP_WHOAMI_ERR" >&2
+    exit 86
+  fi
   echo "ERROR: 1Password CLI not authenticated. Run 'op signin' or set OP_SERVICE_ACCOUNT_TOKEN." >&2
+  echo "$OP_WHOAMI_ERR" >&2
   exit 1
 fi
 
@@ -69,12 +122,12 @@ parse_secret() {
   echo "$NOTES" | grep "^${key}=" | head -1 | cut -d= -f2-
 }
 
-export TELEGRAM_BOT_TOKEN="$(parse_secret 'TG_BOT_DEFAULT')"
-export TELEGRAM_CHAT_ID="-1003767828002"
-export BRIGHTDATA_API_TOKEN="$(parse_secret 'BRIGHTDATA_API_TOKEN')"
-export R2_API_TOKEN="$(parse_secret 'R2_API_TOKEN')"
-export R2_ACCOUNT_ID="$(parse_secret 'R2_ACCOUNT_ID')"
-export R2_BUCKET="$(parse_secret 'R2_BUCKET')"
+export TELEGRAM_BOT_TOKEN="${TELEGRAM_BOT_TOKEN:-$(parse_secret 'TG_BOT_DEFAULT')}"
+export TELEGRAM_CHAT_ID="${TELEGRAM_CHAT_ID:--1003767828002}"
+export BRIGHTDATA_API_TOKEN="${BRIGHTDATA_API_TOKEN:-$(parse_secret 'BRIGHTDATA_API_TOKEN')}"
+export R2_API_TOKEN="${R2_API_TOKEN:-$(parse_secret 'R2_API_TOKEN')}"
+export R2_ACCOUNT_ID="${R2_ACCOUNT_ID:-$(parse_secret 'R2_ACCOUNT_ID')}"
+export R2_BUCKET="${R2_BUCKET:-$(parse_secret 'R2_BUCKET')}"
 [ -z "$R2_BUCKET" ] && export R2_BUCKET="ai-podcast"
 
 # Validate critical secrets
