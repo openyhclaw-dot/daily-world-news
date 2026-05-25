@@ -1,0 +1,84 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-25
+- 教宗 Leo XIV 與 Anthropic 共同發布 AI 通諭，AI 倫理進入宗教與公共政策主場
+- AI 晶片成本結構改寫：Epoch AI 指記憶體已接近三分之二成本  [63%]
+- SpaceX 發射升級版 Starship，NASA 登月架構壓力升高
+- Google I/O 後，Gemini 正變成 Google 產品層的預設介面
+- huggingface/transformers `v5.9.0`：Command A+ MoE 與長上下文支援進主線
+- ollama/ollama `v0.30.0-rc24` 發布候選版延續本地模型迭代
+- Datasette Agent 0.1a4 把 Agent chat 放進資料探索入口
+- openclaw/openclaw `2026.5.24-beta.2`：iMessage 審批支援按讚/倒讚反應
+- LangChain 發布 `langchain-openai==1.2.2` 與 `langchain-fireworks==1.4.0`
+- StablR 穩定幣遭多簽漏洞攻擊，攻擊者鑄出 1,350 萬美元無抵押代幣  [1,350 萬 / 0.85 美元 / 0.40 美元]
+- CoinDesk：AI 代理正在把 crypto rails 推成自動付款層
+- 量子威脅重新回到加密資產安全討論
+- Jujutsu 再次引發「Git 工作流疲勞」討論
+- Go 轉 Rust 遷移指南在開發者社群升溫
+- NASA CRS-34 補給任務帶近一噸研究物資上 ISS
+- Gemini 產品化進入「避不開」階段，消費者選擇權成新爭點
+- 穩定幣多簽攻擊提醒：DeFi 最大弱點常在權限管理而非鏈本身
+- ollama/ollama
+- openclaw/openclaw
+- huggingface/transformers
+- Memory has grown to nearly two-thirds of AI chip component costs
+- Defeating Git Rigour Fatigue with Jujutsu
+- datasette-agent 0.1a4  [77,098.48 美元 / 0.55%]
+- BTC/USD  [77,098.48 美元 / 0.55% / 7.7 萬]
+- ETH/USD  [2,103.42 美元 / 0.59%]
+
+## 2026-05-24
+- DeepSeek 將 V4-Pro 75% 折扣轉為永久價格策略  [0.435 美元]
+- Berkeley Law 2026 夏季起禁止 AI 參與多數評分作業
+- CISA GovCloud 外洩事件升溫，美國國會要求說明
+- DeepSeek V4-Pro 永久降價，推理成本戰進入長期化  [75%]
+- Berkeley Law 對 AI 進法律教育劃紅線
+- openclaw 2026.5.22 強化 gateway 效能與 plugin metadata 快取
+- openclaw 2026.5.23-alpha.1 進入下一輪 alpha
+- 比特幣在伊朗和平協議消息後反彈  [76,687 美元 / 1.59%]
+- 美國 CLARITY Act 可能打開 crypto yield-as-a-service 空間
+- FTX 前法律事務所與審計師同意支付 6,600 萬美元和解  [6,600 萬 / 5.25 億]
+- ICE 授出 2,500 萬美元虹膜掃描合約  [2,500 萬]
+- Spacelab 1980 年代電腦逆向工程文章引發技術社群討論
+- CISA 外洩事件遭國會追問，焦點轉向承包商治理
+- 假 FIFA 世界盃網站鎖定票券與周邊消費者
+- openclaw/openclaw
+- pytorch/pytorch
+- Don't Roll Your Own
+- On the `<dl>`
+- Reverse engineering circuitry in a Spacelab computer from 1980  [76,687.17 美元 / 1.59%]
+- BTC/USD  [76,687.17 美元 / 1.59% / 2,117.40 美元]
+- ETH/USD  [2,117.40 美元 / 2.56%]
+- Gold
+- WTI/Brent
+
+## 2026-05-23
+- OpenAI 拿下 Gartner 2026 企業 AI Coding Agent Magic Quadrant 領導者
+- FTC 重罰 Cox Media 等 3 家「Active Listening AI 廣告」公司近 100 萬美元  [100 萬]
+- Kimwolf IoT 殭屍網路主控者「Dort」在渥太華被捕，美加雙重起訴
+- HuggingFace 力推「Specialization Beats Scale」：採購 AI 不要只看模型大小  [30%]
+- Gary Marcus 警告：AI capex 泡沫可能讓退休基金「賠掉幾十億」
+- OpenAI Codex 入選 Gartner Enterprise AI Coding Agents Leader  [76,000 美元]
+- 比特幣假日週末跌破 76,000 美元，Warsh 接掌 Fed 後流動性緊縮預期升溫  [75,777 美元 / 2.27%]
+- 國會對 Polymarket、Kalshi 開鍘：聯邦員工「拿內幕押注」內線交易調查  [52 萬]
+- Trump Media 再搬 2.05 億美元比特幣，加密押注帳面虧損擴大到 4.55 億美元  [2.05 億 / 4.55 億]
+- NEAR 單日暴漲 19.4%：協議引入「自動化成長 agent」
+- OKX 與 ICE 推「永不到期」原油期貨給 1.2 億加密用戶
+- 小米 YU7 加推標準版 23.35 萬人民幣、GT 版 38.99 萬，雷軍正面對標 Model Y 與 BBA  [23.2 萬 / 35.8 萬]
+- 印度市場：Uber × JSW 簽合作備忘錄，共同開發網約車電動車解決方案  [7 億]
+- F2Pool 創辦人（掌控比特幣 11% 算力）將領銜 SpaceX 首次火星載人任務  [11%]
+- Kimwolf IoT botnet 主控「Dort」遭加拿大警方逮捕
+- CISA GovCloud 外洩餘震：國會兩院議員要求說明
+- ollama/ollama
+- langchain-ai/langchain
+- Simon Willison：FTC 對「Active Listening」廣告的歷史性裁罰
+- Gary Marcus：退休基金與 AI 泡沫的隱性曝險
+- HuggingFace Blog：Specialization Beats Scale  [75,777 美元 / 2.27% / 2,064 美元]
+- BTC/USD  [75,777 美元 / 2.27% / 2,064 美元]
+- ETH/USD  [2,064 美元 / 3.14% / 4,509.9 美元]
+- WTI 原油  [96.63 美元 / 0.29% / 103.76 美元]
+- Brent 原油  [103.76 美元 / 1.15%]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
