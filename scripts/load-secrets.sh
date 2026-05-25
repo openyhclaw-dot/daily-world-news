@@ -21,6 +21,13 @@ if [ -d "/opt/homebrew/bin" ]; then
   export PATH="/opt/homebrew/bin:$PATH"
 fi
 
+# Codex automations start each shell with a minimal environment. Load the
+# 1Password service-account token from the user's op env file when available.
+if [ -f "${HOME}/.config/op/env" ]; then
+  # shellcheck disable=SC1090
+  source "${HOME}/.config/op/env"
+fi
+
 # Try loading OP_SERVICE_ACCOUNT_TOKEN from .env if not already set
 if [ -z "${OP_SERVICE_ACCOUNT_TOKEN:-}" ] && [ -f "${PROJECT_ROOT}/.env" ]; then
   TOKEN=$(grep '^OP_SERVICE_ACCOUNT_TOKEN=' "${PROJECT_ROOT}/.env" | cut -d= -f2-)

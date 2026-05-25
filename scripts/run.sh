@@ -22,6 +22,11 @@ export YESTERDAY="${YESTERDAY:-$(TZ=Asia/Tokyo date -v-1d +%Y-%m-%d 2>/dev/null 
 
 PHASE="${1:-}"
 
+load_project_secrets() {
+  # shellcheck disable=SC1091
+  source "${SCRIPT_DIR}/load-secrets.sh"
+}
+
 case "$PHASE" in
   preflight)
     # Idempotency: if today's podcast mp3 already exists, we're done.
@@ -30,8 +35,7 @@ case "$PHASE" in
       exit 42
     fi
     # Load secrets (exports TELEGRAM_*, R2_*, etc.)
-    # shellcheck disable=SC1091
-    source "${SCRIPT_DIR}/load-secrets.sh"
+    load_project_secrets
     # Deps — silent no-op if already installed
     if ! python3 -c "import feedparser, requests, thefuzz, yfinance, edge_tts" 2>/dev/null; then
       pip3 install feedparser requests thefuzz yfinance edge-tts --break-system-packages -q
@@ -76,6 +80,9 @@ case "$PHASE" in
     ;;
 
   publish)
+    # Publish is often invoked in a fresh automation shell. Make it self-contained
+    # instead of relying on the caller to remember to preload secrets.
+    load_project_secrets
     bash scripts/upload-r2.sh "summaries/${TODAY}.mp3" "podcasts/${TODAY}.mp3"
     python3 scripts/generate-rss.py
     bash scripts/upload-r2.sh "summaries/feed.xml" "feed.xml"
