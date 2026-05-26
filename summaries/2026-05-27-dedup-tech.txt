@@ -1,0 +1,84 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-26
+- ollama/ollama `v0.30.0-rc25` 發布候選版，修正 Windows on Arm 交叉編譯流程
+- OpenClaw `v2026.5.25-beta.1` 進入新 beta，agent 操作層持續迭代
+- 荷蘭查扣 800 台伺服器、逮捕 2 名疑似協助俄方網攻的主機業者
+- OpenAI 與 Grupo Folha、Grupo UOL 達成巴西新聞內容合作
+- Anthropic 共同創辦人 Christopher Olah 在教宗 AI 通諭發表場合談模型「內省」跡象
+- Hugging Face 發布 agent 術語指南，嘗試釐清 harness、scaffold 等概念
+- Datasette `1.0a30` 加入可擴充的 Jump to 選單
+- OpenClaw `2026.5.24-beta.2` 把 iMessage tapback 變成 approval 操作
+- LangChain `langchain-openai==1.2.2` 修復 audio chat 與 Azure embedding 測試
+- LangChain `langchain-fireworks==1.4.0` 遷移到 Fireworks AI 1.x SDK
+- Squid 第三方模組遭約 320 萬美元 exploit，團隊強調核心協議未受影響  [320 萬]
+- 印尼封鎖 Polymarket，將預測市場視為線上賭博監管對象
+- Bitcoin ETF 連續第二週流出逾 10 億美元，但分析師稱 institutional bid 未消失  [78,000 美元 / 10 億]
+- Ethereum 社群討論 EIP-8182，目標把原生 private transfer 納入 Hegota 升級
+- TrapDoor 惡意套件鎖定 Aptos、Sui、Solana 等 crypto 開發環境
+- Microsoft Copilot Cowork 被研究指可外洩檔案，企業 AI 權限邊界再受檢驗
+- Yoti 年齡驗證被指分享臉部照片與 device fingerprints 給第三方
+- Ferrari Luce 電動車亮相，超跑品牌電動化進入第一台量產敘事
+- 荷蘭查扣 800 台伺服器，歐洲把主機商納入反網攻執法焦點
+- ollama/ollama
+- openclaw/openclaw
+- langchain-ai/langchain
+- Hugging Face：Agent 術語指南
+- Simon Willison：Datasette 1.0a30
+- OpenAI：巴西新聞內容合作
+
+## 2026-05-25
+- 教宗 Leo XIV 與 Anthropic 共同發布 AI 通諭，AI 倫理進入宗教與公共政策主場
+- AI 晶片成本結構改寫：Epoch AI 指記憶體已接近三分之二成本  [63%]
+- SpaceX 發射升級版 Starship，NASA 登月架構壓力升高
+- Google I/O 後，Gemini 正變成 Google 產品層的預設介面
+- huggingface/transformers `v5.9.0`：Command A+ MoE 與長上下文支援進主線
+- ollama/ollama `v0.30.0-rc24` 發布候選版延續本地模型迭代
+- Datasette Agent 0.1a4 把 Agent chat 放進資料探索入口
+- openclaw/openclaw `2026.5.24-beta.2`：iMessage 審批支援按讚/倒讚反應
+- LangChain 發布 `langchain-openai==1.2.2` 與 `langchain-fireworks==1.4.0`
+- StablR 穩定幣遭多簽漏洞攻擊，攻擊者鑄出 1,350 萬美元無抵押代幣  [1,350 萬 / 0.85 美元 / 0.40 美元]
+- CoinDesk：AI 代理正在把 crypto rails 推成自動付款層
+- 量子威脅重新回到加密資產安全討論
+- Jujutsu 再次引發「Git 工作流疲勞」討論
+- Go 轉 Rust 遷移指南在開發者社群升溫
+- NASA CRS-34 補給任務帶近一噸研究物資上 ISS
+- Gemini 產品化進入「避不開」階段，消費者選擇權成新爭點
+- 穩定幣多簽攻擊提醒：DeFi 最大弱點常在權限管理而非鏈本身
+- ollama/ollama
+- openclaw/openclaw
+- huggingface/transformers
+- Memory has grown to nearly two-thirds of AI chip component costs
+- Defeating Git Rigour Fatigue with Jujutsu
+- datasette-agent 0.1a4  [77,098.48 美元 / 0.55%]
+- BTC/USD  [77,098.48 美元 / 0.55% / 7.7 萬]
+- ETH/USD  [2,103.42 美元 / 0.59%]
+
+## 2026-05-24
+- DeepSeek 將 V4-Pro 75% 折扣轉為永久價格策略  [0.435 美元]
+- Berkeley Law 2026 夏季起禁止 AI 參與多數評分作業
+- CISA GovCloud 外洩事件升溫，美國國會要求說明
+- DeepSeek V4-Pro 永久降價，推理成本戰進入長期化  [75%]
+- Berkeley Law 對 AI 進法律教育劃紅線
+- openclaw 2026.5.22 強化 gateway 效能與 plugin metadata 快取
+- openclaw 2026.5.23-alpha.1 進入下一輪 alpha
+- 比特幣在伊朗和平協議消息後反彈  [76,687 美元 / 1.59%]
+- 美國 CLARITY Act 可能打開 crypto yield-as-a-service 空間
+- FTX 前法律事務所與審計師同意支付 6,600 萬美元和解  [6,600 萬 / 5.25 億]
+- ICE 授出 2,500 萬美元虹膜掃描合約  [2,500 萬]
+- Spacelab 1980 年代電腦逆向工程文章引發技術社群討論
+- CISA 外洩事件遭國會追問，焦點轉向承包商治理
+- 假 FIFA 世界盃網站鎖定票券與周邊消費者
+- openclaw/openclaw
+- pytorch/pytorch
+- Don't Roll Your Own
+- On the `<dl>`
+- Reverse engineering circuitry in a Spacelab computer from 1980  [76,687.17 美元 / 1.59%]
+- BTC/USD  [76,687.17 美元 / 1.59% / 2,117.40 美元]
+- ETH/USD  [2,117.40 美元 / 2.56%]
+- Gold
+- WTI/Brent
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
