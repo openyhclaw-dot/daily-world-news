@@ -1,0 +1,84 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-28
+- Ollama v0.30.0 RC 推進 llama.cpp / GGUF 架構切換
+- Block 將 stablecoin 功能分階段推給 Cash App 近 6,000 萬用戶  [25% / 6,000 萬]
+- 剛果 Ebola 疫情外溢推高全球健康科技與資料治理壓力  [220 人]
+- OpenAI 與 Anthropic 的企業 AI 成本開始像產品市場契合訊號
+- PyTorch nightly 修正 Inductor 在 `torch.cond` 子圖的 buffer reuse
+- LangChain Perplexity 1.3.0 加入 `use_responses_api` 旗標
+- LangChain Fireworks 1.4.2 修掉 content parts 非 wire keys 序列化問題
+- OpenClaw v2026.5.27-alpha.1 延續 agent 操作層快版節奏
+- Mastercard 取得紐約 BitLicense，stablecoin 支付進一步正規化
+- BIS tokenization 專案稱跨境支付可更快、更安全
+- Jefferies 稱 crypto IPO 可能形成 1 兆美元市場
+- Bitcoin 跌破 7.5 萬美元附近，ETF 需求轉弱成短線壓力  [7.5 萬]
+- AI 安全回報量暴增，curl 維護者承受新型開源壓力
+- 中國 AI 產業現場焦慮從模型能力轉向 token 成本
+- SpaceX Starship V3 完成首次測試飛行，NASA 登月架構壓力同步升高
+- AI 母嬰硬體新創把「照護場景」當成下一個智慧裝置入口
+- BTMOB Android RAT 以 no-code 工具包降低犯罪門檻
+- AI drug discovery 熱度仍高，但基準測試開始挑戰通用 frontier LLM
+- ollama/ollama
+- langchain-ai/langchain
+- openclaw/openclaw
+- Simon Willison：OpenAI / Anthropic 找到企業 PMF
+- Simon Willison：AI 安全回報讓 curl 團隊壓力暴增
+- Ollama Blog：Apple Silicon MLX preview  [74,940.02 美元 / 1.17% / 2,053.85 美元]
+- BTC  [74,940.02 美元 / 1.17% / 2,053.85 美元]
+
+## 2026-05-27
+- LangChain 1.3.2 強化 agent 工作流與串流隱私
+- Coinbase Base 推出可在 ChatGPT 管理錢包與 DeFi 的 AI 工具
+- 英國制裁 Huobi 與盧布穩定幣發行方，鎖定俄羅斯 crypto 網路
+- PyTorch 回退 Triton autotune fallback 修正
+- Paul Graham 指創辦人郵件被 AI 文風稀釋
+- Dify v1.13.3 修 workflow、streaming 與知識檢索穩定性
+- LangChain Fireworks adapter 1.4.1 改善 APIConnectionError retry
+- SharpLink 將加入 Russell 指數，Ethereum treasury 敘事進入被動資金視野
+- XRPL AMM amendment 若通過，可能補上最大 DeFi 缺口
+- Bermuda 繼續押注 crypto 監管定位
+- 天工推出 SkyClaw-v1.0 Agent 模型
+- 字節跳動傳向 Seed 員工開放「豆包股」認購權
+- 橋田智能獲國家級產業基金億元級 A+ 輪融資
+- langchain-ai/langchain
+- langgenius/dify
+- pytorch/pytorch
+- Simon Willison：Microsoft Copilot Cowork Exfiltrates Files
+- Gary Marcus：Uber AI 成本與生產力落差
+- Simon Willison：Notes on Pope Leo XIV's encyclical on AI  [75,939.86 美元 / 1.73%]
+- BTC  [75,939.86 美元 / 1.73% / 2,071.97 美元]
+- ETH  [2,071.97 美元 / 1.87% / 4,506.20 美元]
+- Gold  [4,506.20 美元 / 0.33% / 93.72 美元]
+- WTI / Brent  [93.72 美元 / 2.98% / 96.58 美元]
+
+## 2026-05-26
+- ollama/ollama `v0.30.0-rc25` 發布候選版，修正 Windows on Arm 交叉編譯流程
+- OpenClaw `v2026.5.25-beta.1` 進入新 beta，agent 操作層持續迭代
+- 荷蘭查扣 800 台伺服器、逮捕 2 名疑似協助俄方網攻的主機業者
+- OpenAI 與 Grupo Folha、Grupo UOL 達成巴西新聞內容合作
+- Anthropic 共同創辦人 Christopher Olah 在教宗 AI 通諭發表場合談模型「內省」跡象
+- Hugging Face 發布 agent 術語指南，嘗試釐清 harness、scaffold 等概念
+- Datasette `1.0a30` 加入可擴充的 Jump to 選單
+- OpenClaw `2026.5.24-beta.2` 把 iMessage tapback 變成 approval 操作
+- LangChain `langchain-openai==1.2.2` 修復 audio chat 與 Azure embedding 測試
+- LangChain `langchain-fireworks==1.4.0` 遷移到 Fireworks AI 1.x SDK
+- Squid 第三方模組遭約 320 萬美元 exploit，團隊強調核心協議未受影響  [320 萬]
+- 印尼封鎖 Polymarket，將預測市場視為線上賭博監管對象
+- Bitcoin ETF 連續第二週流出逾 10 億美元，但分析師稱 institutional bid 未消失  [78,000 美元 / 10 億]
+- Ethereum 社群討論 EIP-8182，目標把原生 private transfer 納入 Hegota 升級
+- TrapDoor 惡意套件鎖定 Aptos、Sui、Solana 等 crypto 開發環境
+- Microsoft Copilot Cowork 被研究指可外洩檔案，企業 AI 權限邊界再受檢驗
+- Yoti 年齡驗證被指分享臉部照片與 device fingerprints 給第三方
+- Ferrari Luce 電動車亮相，超跑品牌電動化進入第一台量產敘事
+- 荷蘭查扣 800 台伺服器，歐洲把主機商納入反網攻執法焦點
+- ollama/ollama
+- openclaw/openclaw
+- langchain-ai/langchain
+- Hugging Face：Agent 術語指南
+- Simon Willison：Datasette 1.0a30
+- OpenAI：巴西新聞內容合作
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
