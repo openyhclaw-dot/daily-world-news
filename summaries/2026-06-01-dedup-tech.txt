@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-05-31
+- Nvidia 與 Microsoft 傳將在 Computex / Build 推出首批 Nvidia 主處理器 Windows PC
+- OpenRouter 完成 1.13 億美元 Series B，AI gateway 估值升到約 13 億美元  [1.13 億]
+- SEC 起訴 1,230 萬美元假 AI 交易機器人 crypto 案  [1,230 萬 / 3% / 620 萬]
+- 大型研究稱「更 helpful」的聊天模型反而較不會模擬人類行為  [20.8 萬 / 2,600 萬]
+- Terence Tao 談 AI 讓數學研究出現分工化可能
+- Ollama v0.30.0 RC 持續把本地模型架構切向 llama.cpp / GGUF
+- AI 立場兩極化討論升溫，但「退出科技圈」故事更像勞動市場訊號
+- OpenClaw v2026.5.28 聚焦 agent runtime 復原能力
+- LangChain Anthropic 1.4.4 修正跨 provider tool-call ID 正規化
+- Windows 本機 agents 可能成為 Microsoft 第二次 AI PC 進攻的核心
+- 美國稱查扣約 10 億美元 Iranian crypto，制裁與鏈上追蹤一起進入中東壓力戰  [10 億]
+- Hyperliquid 被 Grayscale 形容為可能成為 DeFi 金融服務巨頭
+- 傳統金融仍把 DeFi 漏洞視為上鏈最大阻礙之一
+- EY 撤回充滿幻覺引用的 cybersecurity report，AI 產出治理被反向示範  [70%]
+- Zig ELF linker devlog 引發開發者關注
+- 500 年朝鮮王朝 omen records 被做成 observability dashboard
+- FAA 暫停 SpaceX Starship V3 後續發射，等待 Flight 12 mishap 調查
+- Computex 前夕，Nvidia / Arm / Microsoft 同步預告「new era of PC」
+- Google 稱已看到 AI 生成 zero-day 的早期實戰案例
+- openclaw/openclaw
+- ollama/ollama
+- langchain-ai/langchain
+- Simon Willison：AI 讓開源與個人職涯壓力外顯  [1.13 億]
+- OpenRouter：Series B 公告  [1.13 億]
+- Zig devlog：ELF linker improvements  [73,900.01 美元 / 0.72% / 2,026.48 美元]
+
+## 2026-05-30
+- OpenAI 擴大醫療、企業程式開發與第三方評測案例
+- CFTC 對美國 crypto perpetual futures 開門，Coinbase 與 Kalshi 先行卡位
+- Sui 在 1.72 版 bug 後再度停擺，L1 可用性重新被放上檯面
+- Claude Opus 4.8 被描述為「小幅但可感」改進
+- llm-anthropic 0.25.1 支援 Claude Opus 4.8 與 fast mode
+- Gary Marcus 討論 tokenmaxxing 退潮後的兩套預測
+- LangChain Anthropic 1.4.4 修正跨 provider tool-call ID 正規化
+- OpenClaw 連續釋出 alpha / beta，聚焦 agent runtime 復原能力
+- Datasette 1.0a31 把資料庫寫入與 stored queries 納入權限模型
+- Jamie Dimon 批評 Coinbase 推動 Clarity Act，銀行與 crypto 監管戰升溫
+- Texas 任命 Strategic Bitcoin Reserve 委員，準備從 IBIT 轉向直接持幣
+- Aave Labs 透過英國子公司取得 FCA cryptoasset registration
+- Base Azul 上主網，Coinbase L2 推進去中心化路線
+- Ventuals 將補償 Hyperliquid 上 SPACEX pre-IPO perps 異常下跌交易者  [45% / 151 萬]
+- CVE-Bench 用真實漏洞 patch 測 LLM agents
+- Shift 用免費居家清潔換取機器人訓練資料
+- 英國明年起用 AI 估算 asylum seekers 年齡
+- ESET APT Activity Report 覆蓋 2025 Q4 到 2026 Q1 威脅活動
+- langchain-ai/langchain
+- openclaw/openclaw
+- simonw/llm-anthropic
+- SQLite is all you need for durable workflows
+- On Rendering Diffs
+- Profiling in PyTorch：torch.profiler 入門  [73,459.27 美元 / 0.11%]
+- BTC  [73,459.27 美元 / 0.11% / 2,014.84 美元]
+
+## 2026-05-29
+- Anthropic 傳完成 650 億美元融資、估值推升到 9,650 億美元
+- Ollama v0.30.0 RC 進一步把本地模型架構切到 llama.cpp / GGUF
+- Tether USAT 供應量月增 540%，美國合規 stablecoin 競爭升溫  [1.4 億]
+- Anthropic 計畫數週內廣泛釋出 Mythos 等級模型能力
+- PyTorch nightly 修 Dynamo `repr` 與 Inductor 測試邊界
+- OpenClaw v2026.5.28-alpha.1 延續 agent 操作層快版節奏
+- CrewAI 1.14.6 修 tool-calling 結構化輸出外洩與環境變數暴露風險
+- LangChain Perplexity 1.3.1 與 Fireworks 1.4.2 修 provider adapter 細節
+- Digital Chamber 加壓美國國會推動 Clarity Act
+- Kalshi 起訴明尼蘇達州，預測市場監管戰線擴大
+- Hypernova 完成 300 萬美元 pre-seed，押注 Hyperliquid prop trading
+- Grayscale HYPE ETF 洽談約 1.15 億美元 seed investment  [1.15 億]
+- 快手 Q1 營收 337 億元，可靈 AI 被定位為第二成長曲線  [3.4% / 4.13 億 / 7.72 億]
+- 雷神與 AMD 發布三形態 AI 工作站矩陣
+- 日本 AstroX 計畫從氣球上發射火箭
+- DARPA RSGS 深太空維修衛星準備 2026 年發射
+- 雷鳥創新發布 GT 系列、V4 AI 拍攝眼鏡，預告雷鳥 iO  [1,899 元 / 2,199 元]
+- Google、Samsung 與 Meta 的 AI 眼鏡競爭進入消費者教育期
+- Verizon DBIR：漏洞利用占確認資料外洩 31%  [31%]
+- 用 AI chatbot 問健康問題，隱私與幻覺風險同時存在
+- ollama/ollama
+- openclaw/openclaw
+- crewAIInc/crewAI
+- Bloomberg Law：Anthropic Mythos 等級模型釋出時間表
+- Space.com：DARPA 軌道維修衛星
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
