@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-01
+- PyTorch nightly 針對 XPU oneDNN 整合改用 C++ API
+- BlackRock IBIT 出現約 12.6 億美元大額賣出，被解讀為單一大型投資人快速退場  [12.6 億 / 73,530 美元 / 0.30%]
+- Cardano Foundation 取消 2026 Summit，因 treasury funding 投票只拿到 65% 支持  [65%]
+- AI 訂閱疲勞討論升溫：從「產能工具」變成「專案膨脹器」
+- Anthropic run-rate revenue 計算法被拆解，AI 財務敘事更需要看口徑
+- Claude sandbox 文件化成為 agent 信任基礎案例
+- OpenClaw 2026.5.31-beta.3 聚焦 interrupted tool calls 與 stale session recovery
+- 「Codex 找到 sudo workaround」在 HN 引發工具邊界討論
+- AI prototyping 速度紅利開始碰到維護債
+- SEC 起訴 Privvy founder，稱 1,230 萬美元 AI crypto bots 不是 AI 也不是 bots  [1,230 萬 / 100 萬]
+- 美國眾院金融服務委員會把 tokenization 放進 crypto 政策主線
+- Stellar 進入 DTCC tokenization 敘事，傳統金融基礎設施繼續試探上鏈
+- XRP Ledger 新提案鎖定 flash loan attack，回應 DeFi 數億美元等級損失問題
+- Deflock 稱美國 ALPR 地圖已標註 10 萬台車牌辨識設備
+- Streambed 讓 Postgres 資料流向 S3 Iceberg，並支援 Postgres wire protocol
+- Chibil：C compiler targeting .NET IL 引發編譯器社群注意
+- Steam Deck 在北美漲價後 24 小時內售罄
+- ChatGPT share links 被濫用來放假 OpenAI outage 頁面與惡意軟體下載連結
+- pytorch/pytorch
+- openclaw/openclaw
+- viggy28/streambed
+- The solution might be cancelling my AI subscription
+- How we contain Claude across products
+- Running Python ASGI apps in the browser via Pyodide + a service worker
+- BTC/USD  [73,530 美元 / 73,754.84 美元 / 0.30%]
+
+## 2026-05-31
+- Nvidia 與 Microsoft 傳將在 Computex / Build 推出首批 Nvidia 主處理器 Windows PC
+- OpenRouter 完成 1.13 億美元 Series B，AI gateway 估值升到約 13 億美元  [1.13 億]
+- SEC 起訴 1,230 萬美元假 AI 交易機器人 crypto 案  [1,230 萬 / 3% / 620 萬]
+- 大型研究稱「更 helpful」的聊天模型反而較不會模擬人類行為  [20.8 萬 / 2,600 萬]
+- Terence Tao 談 AI 讓數學研究出現分工化可能
+- Ollama v0.30.0 RC 持續把本地模型架構切向 llama.cpp / GGUF
+- AI 立場兩極化討論升溫，但「退出科技圈」故事更像勞動市場訊號
+- OpenClaw v2026.5.28 聚焦 agent runtime 復原能力
+- LangChain Anthropic 1.4.4 修正跨 provider tool-call ID 正規化
+- Windows 本機 agents 可能成為 Microsoft 第二次 AI PC 進攻的核心
+- 美國稱查扣約 10 億美元 Iranian crypto，制裁與鏈上追蹤一起進入中東壓力戰  [10 億]
+- Hyperliquid 被 Grayscale 形容為可能成為 DeFi 金融服務巨頭
+- 傳統金融仍把 DeFi 漏洞視為上鏈最大阻礙之一
+- EY 撤回充滿幻覺引用的 cybersecurity report，AI 產出治理被反向示範  [70%]
+- Zig ELF linker devlog 引發開發者關注
+- 500 年朝鮮王朝 omen records 被做成 observability dashboard
+- FAA 暫停 SpaceX Starship V3 後續發射，等待 Flight 12 mishap 調查
+- Computex 前夕，Nvidia / Arm / Microsoft 同步預告「new era of PC」
+- Google 稱已看到 AI 生成 zero-day 的早期實戰案例
+- openclaw/openclaw
+- ollama/ollama
+- langchain-ai/langchain
+- Simon Willison：AI 讓開源與個人職涯壓力外顯  [1.13 億]
+- OpenRouter：Series B 公告  [1.13 億]
+- Zig devlog：ELF linker improvements  [73,900.01 美元 / 0.72% / 2,026.48 美元]
+
+## 2026-05-30
+- OpenAI 擴大醫療、企業程式開發與第三方評測案例
+- CFTC 對美國 crypto perpetual futures 開門，Coinbase 與 Kalshi 先行卡位
+- Sui 在 1.72 版 bug 後再度停擺，L1 可用性重新被放上檯面
+- Claude Opus 4.8 被描述為「小幅但可感」改進
+- llm-anthropic 0.25.1 支援 Claude Opus 4.8 與 fast mode
+- Gary Marcus 討論 tokenmaxxing 退潮後的兩套預測
+- LangChain Anthropic 1.4.4 修正跨 provider tool-call ID 正規化
+- OpenClaw 連續釋出 alpha / beta，聚焦 agent runtime 復原能力
+- Datasette 1.0a31 把資料庫寫入與 stored queries 納入權限模型
+- Jamie Dimon 批評 Coinbase 推動 Clarity Act，銀行與 crypto 監管戰升溫
+- Texas 任命 Strategic Bitcoin Reserve 委員，準備從 IBIT 轉向直接持幣
+- Aave Labs 透過英國子公司取得 FCA cryptoasset registration
+- Base Azul 上主網，Coinbase L2 推進去中心化路線
+- Ventuals 將補償 Hyperliquid 上 SPACEX pre-IPO perps 異常下跌交易者  [45% / 151 萬]
+- CVE-Bench 用真實漏洞 patch 測 LLM agents
+- Shift 用免費居家清潔換取機器人訓練資料
+- 英國明年起用 AI 估算 asylum seekers 年齡
+- ESET APT Activity Report 覆蓋 2025 Q4 到 2026 Q1 威脅活動
+- langchain-ai/langchain
+- openclaw/openclaw
+- simonw/llm-anthropic
+- SQLite is all you need for durable workflows
+- On Rendering Diffs
+- Profiling in PyTorch：torch.profiler 入門  [73,459.27 美元 / 0.11%]
+- BTC  [73,459.27 美元 / 0.11% / 2,014.84 美元]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
