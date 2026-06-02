@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-02
+- Ollama v0.30.0 RC 繼續把本地模型架構轉向 llama.cpp / GGUF
+- OpenClaw 2026.6.1-beta.1 聚焦 agent runtime 復原與多通道交付穩定性
+- Strategy 首度賣出比特幣引發市場壓力，但規模只有 32 BTC / 250 萬美元  [250 萬 / 71,480 美元 / 2.85%]
+- PyTorch nightly 修正 autograd layout policy 狀態外洩
+- PyTorch Triton reduction 去重，改善 max/min dim lowering 路徑
+- JetBrains 推出 Mellum2：12B MoE 程式模型進入 Hugging Face 生態
+- Simon Willison 月報：AI 變貴、模型發布變平淡，agent 產品更看重工作流
+- OpenClaw alpha / beta 連續釋出，agent 長任務恢復能力仍是主線
+- LangChain provider 套件持續小版更新，跨 provider tool-call ID 正規化仍是痛點
+- Datasette 1.0a32 修補 execute-write 與 base_url 問題
+- Crypto funds 出現 2026 年第二大資金流出，但 XRP 與 HYPE 逆勢吸金  [72,000 美元]
+- 日本執政黨支持 crypto ETF 交易與日圓穩定幣，監管主線轉向制度化入口
+- Vitalik Buterin 重新思考 DeFi 面對市場崩盤的處理方式
+- Citi 預測 tokenized securities 市場到 2030 年可達 5.5 兆美元
+- 白帽開發者解開 2016 年 Ethereum ICO 合約中卡住 200 萬美元資產  [200 萬]
+- 豆包傳 6月下旬正式推出付費內容，並加速打通抖音電商  [68 元 / 200 元 / 500 元]
+- 量坤科技完成數億元天使輪系列融資，AI4S 與量子計算敘事合流
+- OpenAI Robotics 招聘訊號顯示世界模型研究轉向機器人落地
+- 攻擊者濫用 Meta AI support bot 接管 Instagram 帳號
+- ollama/ollama
+- openclaw/openclaw
+- pytorch/pytorch
+- May 2026 newsletter
+- datasette 1.0a32
+- Introducing Mellum2
+
+## 2026-06-01
+- PyTorch nightly 針對 XPU oneDNN 整合改用 C++ API
+- BlackRock IBIT 出現約 12.6 億美元大額賣出，被解讀為單一大型投資人快速退場  [12.6 億 / 73,530 美元 / 0.30%]
+- Cardano Foundation 取消 2026 Summit，因 treasury funding 投票只拿到 65% 支持  [65%]
+- AI 訂閱疲勞討論升溫：從「產能工具」變成「專案膨脹器」
+- Anthropic run-rate revenue 計算法被拆解，AI 財務敘事更需要看口徑
+- Claude sandbox 文件化成為 agent 信任基礎案例
+- OpenClaw 2026.5.31-beta.3 聚焦 interrupted tool calls 與 stale session recovery
+- 「Codex 找到 sudo workaround」在 HN 引發工具邊界討論
+- AI prototyping 速度紅利開始碰到維護債
+- SEC 起訴 Privvy founder，稱 1,230 萬美元 AI crypto bots 不是 AI 也不是 bots  [1,230 萬 / 100 萬]
+- 美國眾院金融服務委員會把 tokenization 放進 crypto 政策主線
+- Stellar 進入 DTCC tokenization 敘事，傳統金融基礎設施繼續試探上鏈
+- XRP Ledger 新提案鎖定 flash loan attack，回應 DeFi 數億美元等級損失問題
+- Deflock 稱美國 ALPR 地圖已標註 10 萬台車牌辨識設備
+- Streambed 讓 Postgres 資料流向 S3 Iceberg，並支援 Postgres wire protocol
+- Chibil：C compiler targeting .NET IL 引發編譯器社群注意
+- Steam Deck 在北美漲價後 24 小時內售罄
+- ChatGPT share links 被濫用來放假 OpenAI outage 頁面與惡意軟體下載連結
+- pytorch/pytorch
+- openclaw/openclaw
+- viggy28/streambed
+- The solution might be cancelling my AI subscription
+- How we contain Claude across products
+- Running Python ASGI apps in the browser via Pyodide + a service worker
+- BTC/USD  [73,530 美元 / 73,754.84 美元 / 0.30%]
+
+## 2026-05-31
+- Nvidia 與 Microsoft 傳將在 Computex / Build 推出首批 Nvidia 主處理器 Windows PC
+- OpenRouter 完成 1.13 億美元 Series B，AI gateway 估值升到約 13 億美元  [1.13 億]
+- SEC 起訴 1,230 萬美元假 AI 交易機器人 crypto 案  [1,230 萬 / 3% / 620 萬]
+- 大型研究稱「更 helpful」的聊天模型反而較不會模擬人類行為  [20.8 萬 / 2,600 萬]
+- Terence Tao 談 AI 讓數學研究出現分工化可能
+- Ollama v0.30.0 RC 持續把本地模型架構切向 llama.cpp / GGUF
+- AI 立場兩極化討論升溫，但「退出科技圈」故事更像勞動市場訊號
+- OpenClaw v2026.5.28 聚焦 agent runtime 復原能力
+- LangChain Anthropic 1.4.4 修正跨 provider tool-call ID 正規化
+- Windows 本機 agents 可能成為 Microsoft 第二次 AI PC 進攻的核心
+- 美國稱查扣約 10 億美元 Iranian crypto，制裁與鏈上追蹤一起進入中東壓力戰  [10 億]
+- Hyperliquid 被 Grayscale 形容為可能成為 DeFi 金融服務巨頭
+- 傳統金融仍把 DeFi 漏洞視為上鏈最大阻礙之一
+- EY 撤回充滿幻覺引用的 cybersecurity report，AI 產出治理被反向示範  [70%]
+- Zig ELF linker devlog 引發開發者關注
+- 500 年朝鮮王朝 omen records 被做成 observability dashboard
+- FAA 暫停 SpaceX Starship V3 後續發射，等待 Flight 12 mishap 調查
+- Computex 前夕，Nvidia / Arm / Microsoft 同步預告「new era of PC」
+- Google 稱已看到 AI 生成 zero-day 的早期實戰案例
+- openclaw/openclaw
+- ollama/ollama
+- langchain-ai/langchain
+- Simon Willison：AI 讓開源與個人職涯壓力外顯  [1.13 億]
+- OpenRouter：Series B 公告  [1.13 億]
+- Zig devlog：ELF linker improvements  [73,900.01 美元 / 0.72% / 2,026.48 美元]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
