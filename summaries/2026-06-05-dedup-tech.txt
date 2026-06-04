@@ -1,0 +1,81 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-04
+- OpenClaw 2026.6.1 釋出，agent runtime 轉向「長任務復原」競賽
+- 火山引擎傳將 MaaS 年營收目標拉到 150 億元人民幣  [100 億 / 150 億 / 10 億]
+- EdgeX 代幣 71% 閃崩後提出退款與 20 萬 USDC bounty  [71% / 20 萬]
+- Ollama v0.30.4-rc0 更新 llama.cpp，並修 Windows 清理流程
+- Transformers v5.10.1 修正 v5.10.0 發布事故，新增 Gemma 4 12B Unified 支援
+- PyTorch nightly 修 Dynamo nested graph break 與 Inductor dtype 問題
+- OpenAI 發布 frontier AI 治理藍圖與公共政策議程
+- LangChain DeepSeek provider 升到 1.1.0，測試與依賴安全成為主線
+- OpenClaw alpha 與正式版連續釋出，強化多通道 delivery retry
+- Uber 傳限制 Claude Code 等 AI coding tool 月度 token 預算  [1,500 美元]
+- Crypto VC 交易數降到五年低點，但大型輪次仍撐住資金敘事
+- Hyperliquid perps 市占創新高，HIP-3 月交易量逾 620 億美元  [620 億]
+- 美國財長 Bessent 支持夏季推進 Clarity Act，比特幣儲備按「審慎速度」推動
+- Revolut 美國銀行計畫在 FDIC 存款產品旁提供 stablecoin 服務
+- Astribot 三個月內完成超 10 億元 B 輪系列融資，估值破百億元  [10 億 / 100 億]
+- 曠行科技獲財通、商湯投資，鎖定高危工業場景的機器人大腦
+- IREN 在澳洲布局首座亞太 AI data center campus  [36.5 億]
+- NASA CRS-34 Dragon 預計6月中返回地球，帶回 ISS 時效性研究樣本
+- NASA 下一代太空處理器進入測試，目標提升深空任務自主運算
+- 瑞典 AI app builder Lovable 傳擴大與 Google Cloud 多年合作
+- Ollama 修正 SSE ping comment 造成的串流解析問題
+- 今日主要來源未抓到足夠新的 biotech / health-tech 重大新聞
+- ollama/ollama
+- huggingface/transformers
+- langchain-ai/langchain
+
+## 2026-06-03
+- Meta AI 支援機器人被濫用，Instagram 高知名度帳號遭接管
+- Holo3.1 推出本地 computer-use agents，主打快速、低延遲與資料留在本機
+- 比特幣跌破 6.9 萬美元後，機構需求與資金流成為市場焦點  [67,080.21 美元 / 5.94%]
+- 豆包傳 6月下旬正式推出付費內容，AI 助手商業化進入分層訂閱測試  [68 元 / 200 元 / 500 元]
+- Gary Marcus 再批 AI sanity，治理派把焦點放回可靠性與制度壓力
+- LangChain 1.3.3 增加 typed run.subagents channel，agent 編排更靠近可觀測工作流
+- OpenClaw beta/alpha 連續修 runtime recovery，長任務 agent 的失敗復原仍是主線
+- Ethena 接入 Anchorage，USDe 儲備改革轉向機構級抵押與借貸
+- Coinbase 買入 ENA 並投資 ProShares 穩定幣儲備 ETF，交易所押注鏈上金融入口  [220 億]
+- Warren 與 Sanders 施壓美國勞工部，要求擋下 401(k) 納入 crypto 的規則
+- Ardian 與 Verne 計畫在法國投資 50 億歐元數位基礎設施園區  [50 億]
+- WeRide 與 Uber 宣布西班牙首個 Robotaxi 服務計畫落地馬德里
+- 江西國家稀土技術創新中心成立，註冊資本 12.5 億人民幣
+- Meta AI support bot 事件暴露 AI 客服的權限設計問題
+- ollama/ollama
+- pytorch/pytorch
+- langchain-ai/langchain
+- Pasted File Editor
+- Holo3.1: Fast & Local Computer Use Agents
+- Breaking: When dreams for AI sanity come true  [67,080.21 美元]
+
+## 2026-06-02
+- Ollama v0.30.0 RC 繼續把本地模型架構轉向 llama.cpp / GGUF
+- OpenClaw 2026.6.1-beta.1 聚焦 agent runtime 復原與多通道交付穩定性
+- Strategy 首度賣出比特幣引發市場壓力，但規模只有 32 BTC / 250 萬美元  [250 萬 / 71,480 美元 / 2.85%]
+- PyTorch nightly 修正 autograd layout policy 狀態外洩
+- PyTorch Triton reduction 去重，改善 max/min dim lowering 路徑
+- JetBrains 推出 Mellum2：12B MoE 程式模型進入 Hugging Face 生態
+- Simon Willison 月報：AI 變貴、模型發布變平淡，agent 產品更看重工作流
+- OpenClaw alpha / beta 連續釋出，agent 長任務恢復能力仍是主線
+- LangChain provider 套件持續小版更新，跨 provider tool-call ID 正規化仍是痛點
+- Datasette 1.0a32 修補 execute-write 與 base_url 問題
+- Crypto funds 出現 2026 年第二大資金流出，但 XRP 與 HYPE 逆勢吸金  [72,000 美元]
+- 日本執政黨支持 crypto ETF 交易與日圓穩定幣，監管主線轉向制度化入口
+- Vitalik Buterin 重新思考 DeFi 面對市場崩盤的處理方式
+- Citi 預測 tokenized securities 市場到 2030 年可達 5.5 兆美元
+- 白帽開發者解開 2016 年 Ethereum ICO 合約中卡住 200 萬美元資產  [200 萬]
+- 豆包傳 6月下旬正式推出付費內容，並加速打通抖音電商  [68 元 / 200 元 / 500 元]
+- 量坤科技完成數億元天使輪系列融資，AI4S 與量子計算敘事合流
+- OpenAI Robotics 招聘訊號顯示世界模型研究轉向機器人落地
+- 攻擊者濫用 Meta AI support bot 接管 Instagram 帳號
+- ollama/ollama
+- openclaw/openclaw
+- pytorch/pytorch
+- May 2026 newsletter
+- datasette 1.0a32
+- Introducing Mellum2
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
