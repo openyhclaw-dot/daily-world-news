@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-10
+- Apple 把「自動改弱密碼」做成 Safari / Passwords 的 AI agent 功能
+- Morpho 宣布 1.75 億美元融資，DeFi 信貸基礎設施繼續往機構化靠攏
+- Starknet 推出 ERC20 餘額與轉帳的 ZK 隱私層
+- ServiceNow / Hugging Face 發布 code-switching ASR benchmark
+- Gary Marcus 再批 Claude Mythos 與 AI 估值敘事
+- Simon Willison 摘錄 Karpathy 對「軟體需求爆炸」的觀察
+- Hugging Face 展示 agent 串接兩個 Spaces 生成 3D Paris gallery
+- CrewAI 1.14.7a4 增加 FlowDefinition runtime 與可插拔 backend
+- OpenClaw 2026.6.5 修掉 reasoning scaffolding 外洩到原生通道的風險
+- 美國加密立法推進，Warren 警告 CFTC 被削弱會成為災難配方
+- Hyperliquid 支持者與 Paradigm 要求修訂美國 AML 提案
+- Humanity Protocol 相關錢包遭抽走逾 3,200 萬美元，代幣一度重挫 89%  [2,370 萬 / 790 萬]
+- FPGA 上的 Kolmogorov-Arnold Networks 被整理成 ultrafast ML 實作案例
+- Techdirt 批評「AI 取代員工」式 CEO 敘事
+- Siri AI 將以 beta 形式回歸，但 EU 與中國初期不支援
+- Apple AI 改密碼功能也引出「代理式安全」的新攻擊面
+- ollama/ollama
+- pytorch/pytorch
+- langchain-ai/langchain
+- What it feels like to work with Mythos
+- Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?
+- Quoting Andrej Karpathy  [61,996.32 美元]
+- BTC  [61,996.32 美元 / 1.73% / 1,657.88 美元]
+- 61,996.32 美元  [1.73% / 1,657.88 美元 / 1.91%]
+- -1.73%  [1,657.88 美元 / 1.91% / 4,281.30 美元]
+
+## 2026-06-09
+- Apple 公開新的 Siri / Apple Intelligence 架構線索
+- OpenAI 推出 Economic Research Exchange
+- Hugging Face 推 OpenEnv，主打 Agentic RL 開源環境
+- Ollama v0.30.7 釋出
+- PyTorch strict viable build 加入 C++ stable Generator 路徑
+- Transformers v5.10.2 修補 CLIP 相關模型轉換 bug
+- LangChain Core 1.4.2 發布
+- OpenClaw v2026.6.8-alpha.1 續推 alpha 版
+- datasette-agent-edit 0.1a0 出現早期版本
+- Coinbase 策略師稱機構投資人低價更願意買比特幣  [63,342.42 美元 / 0.16%]
+- Hyperliquid 代幣回購被 Citrini 視為投資亮點
+- TON Strategy 5月 staking 收益超過 330 萬 TON  [330 萬 / 560 萬 / 2.27 億]
+- Sam Bankman-Fried 正式申請 Trump 總統特赦
+- 「細胞為什麼小」長文重新整理細胞尺寸限制
+- TI-84 Plus 作業系統完整逆向工程文章公開
+- Apple Intelligence / Siri 更新成為消費科技主線
+- ollama/ollama
+- langchain-ai/langchain
+- huggingface/transformers
+- Gary Marcus 再批 AI 產業估值敘事
+- OpenEnv for Agentic RL
+- Datasette agent edit 早期實驗  [63,342.42 美元]
+- BTC  [63,342.42 美元 / 0.16% / 1,685.21 美元]
+- ETH  [1,685.21 美元 / 0.07% / 4,352.20 美元]
+- Gold  [4,352.20 美元 / 0.35% / 91.43 美元]
+
+## 2026-06-08
+- PyTorch strict viable release 修正 multiprocessing 測試路徑
+- OpenClaw v2026.6.7-alpha.2 續推 agent runtime 小步快跑
+- Strategy 壓力升高，JPMorgan 稱需重建美元準備金  [50% / 117 億]
+- Ollama v0.30.7-rc1 對齊 OpenAI models list 與 tags
+- Transformers v5.10.2 修補 CLIP 相關模型轉換 bug
+- Gary Marcus 再談 AI slop 與生產力落差
+- LangChain Perplexity 1.3.2 修補 ToolMessage 序列化
+- LangChain Core 1.4.1 移除 Bedrock prevalidation 並補 ModelProfile 文件
+- CrewAI 1.14.7a2 加入 conversational flow traces
+- Bybit 跟進 Kraken，提供 tokenized SpaceX IPO exposure
+- HTX 將下架 Trump-linked USD1，稱地址遭 World Liberty Financial 凍結
+- Coindesk：比特幣跌勢沒有單一原因  [61,254.76 美元 / 1,610.63 美元]
+- Joe Lubin 稱 Ethereum Foundation 裁撤與離職不是危機
+- NVIDIA RTX Spark 進韓國 PC Bang 場景
+- 新宙邦與寧德時代簽電解液合作，2026-2028 年合計 30 萬噸  [5 萬 / 10 萬 / 15 萬]
+- 泰坦股份提醒電子布織機仍處研發階段  [20%]
+- 優必選消費級超仿生人形機器人 6 天預訂超 2,110 台
+- 百度升級數字人創新業務部
+- USD1 地址凍結事件凸顯穩定幣控制權風險
+- 東誠藥業萘莫司他上市許可申請獲受理  [4.42 億]
+- 華恒生物 H 股上市申請進入港交所聆訊後階段
+- pytorch/pytorch
+- openclaw/openclaw
+- ollama/ollama
+- langchain-ai/langchain
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
