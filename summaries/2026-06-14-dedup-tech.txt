@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-13
+- Ollama v0.30.8 強化本機推論穩定性
+- Transformers v5.12.0 納入 MiniMax-M3-VL
+- Bitcoin 是否已在 5.9 萬美元築底，市場分歧升高  [5.9 萬 / 6.36 萬]
+- PyTorch v2.13.0-rc6 推進 release wheel 修補
+- DTensor symbolic local layouts 修補 AOTAutograd 邊界
+- AI 投資循環收入敘事再被質疑
+- LangChain Core 1.4.7 修正工具與 tracing metadata
+- LangChain Anthropic 1.4.6 收緊 file-search 結果邊界
+- OpenClaw 2026.6.6 強化 agent runtime 安全邊界
+- VanEck 押注 BNB 現實使用量，挑戰擁擠 ETF 市場
+- Kalshi crypto perpetuals 引發 futures 或 swaps 爭議
+- Bitcoin ETF 投資人是否真的撤退，資料解讀分歧
+- Waymo 測試 30 美元月費會員，robotaxi 從供給擴張轉向服務分層
+- SK 海力士評估導入 ChatGPT 等外部 AI 服務
+- 中國工業用品 MRO 平台走向供應鏈協同
+- SpaceX 準備恢復 Starship 發射，等待 FAA 調查節點
+- NASA 公布 Artemis III 太空人名單，商業月球著陸器成任務核心
+- Apple Intelligence 後續評價仍卡在 Siri 時程與地區限制
+- Microsoft 六月 Patch Tuesday 修補逾 200 個漏洞與 3 個 zero-day
+- OceanLotus 行動模式從對外間諜延伸到國內目標
+- 今日 biotech 未見足夠可驗證旗艦事件
+- ollama/ollama
+- huggingface/transformers
+- langchain-ai/langchain
+- Quoting Andrew Singleton
+
+## 2026-06-12
+- Coinbase 推 AI agent accounts，把代理交易和付款帶進加密錢包
+- Canton Network 開發商融資 3.55 億美元，華爾街 tokenization 競賽升溫  [3.55 億]
+- Anthropic 調整 Claude 對 frontier LLM 研究的 safeguard 顯示方式
+- Gary Marcus 稱 OpenAI 可能考慮大幅降價，AI 毛利敘事再被檢驗
+- Datasette 1.0a33 把 `_extra=` API pattern 擴到 queries 與 rows
+- Hugging Face 示範 PyTorch fused MLP profiling，模型效能優化回到 kernel 細節
+- LangChain Core 1.4.6 修正 streamed tool calls 正規化問題
+- LangChain model profiles 0.0.6 增加 streaming tool call chunks 測試
+- Datasette-agent 0.2a0 讓工具能在執行中向使用者提問
+- 大型銀行不再只追「穩定幣贏家」，轉向公鏈 tokenized cash networks
+- Citi 推 tokenized share offering，私募市場入口往鏈上延伸
+- 美國眾院法案擬建立跨執法機關 crypto-theft task force
+- Bitcoin ETF outflows 可能更像套利 unwind，而非 SpaceX IPO 抽資
+- PyTorch 2.13.0-rc5 推進 release wheel build 修補
+- Apple Siri AI 延續 WWDC 後的「快到了但還沒完全到」評價
+- NASA 與科學新聞今天缺少可驗證旗艦事件，space/science 暫以延續觀察為主
+- Apple AI 消費端 rollout 仍受地區、語言與硬體門檻限制
+- AI agent 金融化讓 cybersecurity 從身分驗證走到交易風控
+- pytorch/pytorch
+- langchain-ai/langchain
+- openclaw/openclaw
+- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+- Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
+- Maybe Section 230 doesn’t shield AI companies from liability, after all  [63,524.87 美元]
+- BTC  [63,524.87 美元 / 3.38% / 1,679.73 美元]
+
+## 2026-06-11
+- Transformers v5.11.0 納入 DiffusionGemma，擴散式語言模型再被推到開發者工作流
+- Tether 領投最高 14 億美元 Neura 融資，穩定幣資金開始直接切入機器人硬體  [14 億]
+- Microsoft 六月 Patch Tuesday 接近 200 個漏洞，企業修補壓力升高
+- DiffusionGemma 進入 Transformers，非自回歸生成路線重新受到注意
+- Gary Marcus 關注 Google 幻覺責任判例，LLM 法律風險從產品條款走向法院
+- OpenAI 公布 PRC-linked influence operations 報告，AI 內容戰轉向政策議題
+- Mastercard 推 Agent Pay for Machines，把 autonomous agent 支付接到穩定幣場景
+- LangChain Perplexity 1.4.0 支援 bind_tools 與 Responses API tool round-trip
+- OpenClaw 2026.6.10-alpha.1 延續 agent runtime 小版迭代
+- Bitwise CIO 稱財務顧問更關注穩定幣與 tokenization，而不是比特幣本身
+- SpaceX IPO 零售配售可能成為 Bitcoin 短線資金逆風  [30% / 53,600 美元]
+- Raydium 退休 AMM 程式遭 134 萬美元 exploit，treasury 將補償受影響用戶  [134 萬]
+- Helius 併購 Light Protocol，Solana onchain privacy 進入整併期
+- Dario Amodei 發表 AI exponential 政策文章，主張治理速度要跟上能力曲線
+- JPL 維持 13 年 Curiosity rover 科學任務，老探測器成為軟硬體延壽案例
+- SpaceX 2040 年 4.3 兆美元營收預測遭質疑，太空商業化估值回到現金流問題
+- Apple WWDC 後的 AI 評價分歧，市場仍擔心 Siri 回歸時間表
+- Krebs 追蹤 The Gentlemen ransomware group，勒索軟體競爭轉向招募與品牌化
+- huggingface/transformers
+- ollama/ollama
+- pytorch/pytorch
+- langchain-ai/langchain
+- DiffusionGemma
+- Policy on the AI Exponential
+- The Dynamo and the Computer: The Modern Productivity Paradox
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
