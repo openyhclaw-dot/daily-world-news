@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-16
+- Ollama v0.30.9-rc0 更新 llama.cpp 到 b9637
+- Hugging Face Transformers v5.12.1 修補 Mistral tokenizer 與 PEFT 下限
+- 微軟六月 Patch Tuesday 修補約 200 個漏洞，BitLocker 爭議延燒
+- PyTorch CI releases 繼續清理 XPU 與 Torchtitan 邊界
+- Anthropic 模型下線內幕讓 AI 出口管制爭議繼續發酵
+- OpenClaw v2026.6.15-alpha.1 延續 agent runtime 快速迭代
+- CrewAI 1.14.7 的 memory、knowledge、RAG backend 已進入延續觀察
+- Standard Chartered 看 UNI 到 2030 年可能上看 100 美元  [100 美元]
+- Strategy 再買 1,587 BTC，總持倉達 846,842 BTC  [1 億 / 2,100 萬 / 4%]
+- Kraken 在美國推出 crypto perpetuals 交易
+- Zimbabwe 要求加密公司向央行登記  [500 美元 / 400 美元]
+- 海洋具身智能公司世航智能完成超過 10 億元 A 輪融資  [10 億]
+- 智源研究院王仲遠：VLA 不會死，但世界模型才是下一站
+- NASA 公布 Artemis III 太空人，商業登月器整合成任務核心
+- 大疆 Osmo Pocket 4P 以雙攝與 17 級動態範圍切入口袋電影機  [3,799 元]
+- RoguePlanet 與 GreatXML PoC 讓 Windows 修補窗口更緊
+- Curated AI 在藥物資產搜尋 benchmark 贏過通用 frontier LLM  [100%]
+- ollama/ollama
+- huggingface/transformers
+- openclaw/openclaw
+- Anthropic 模型下線內幕與政策風險
+- Windows disclosure 戰爭的操作面教訓
+- 世界模型路線爭論升溫  [66,523.15 美元 / 1.24%]
+- BTC/USD  [66,523.15 美元 / 1.24% / 1,818.38 美元]
+- ETH/USD  [1,818.38 美元 / 5.44% / 4,339.50 美元]
+
+## 2026-06-15
+- OpenClaw 連發 alpha 與 beta，agent runtime 把通訊渠道當成一級能力
+- Transformers v5.12.0 納入 MiniMax-M3-VL，開源多模態模型堆疊繼續加厚
+- 美國對 Anthropic Fable 5 管制餘波，帶動 permissionless AI 代幣敘事
+- Ollama v0.30.8 修補 provider 選擇與 MLX 推論穩定性
+- Gary Marcus 再要求華府補上 AI 治理缺口
+- Pyodide 支援 WASM wheels 發布到 PyPI，瀏覽器端 Python 生態少一層瓶頸
+- OpenClaw beta 把 Telegram rich text、WhatsApp delivery 與 CLI backend 串成工作流
+- langchain-openai 1.3.2 小版修補工具呼叫相容性
+- CrewAI 1.14.7 加入可插拔 memory、knowledge、RAG backend
+- World Liberty Financial 要用 USD1 stablecoin 支付 UFC 獎金
+- CoinDesk 警告 Bitcoin 技術型態若觸發，可能回測 48,000 美元  [63,803.99 美元 / 48,000 美元]
+- Aerodrome 最大升級把 liquidity routing 做成 prediction market
+- 螞蟻集團傳測試 AI 版支付寶，一鍵切入原生 AI 介面
+- 中國 5月動力與其他電池產量 192GWh，年增 38%  [30% / 26% / 38%]
+- SoulX 完成數千萬元天使輪，柔性睡眠安撫機器人鎖定家庭健康場景
+- Blue Origin 稱 New Glenn 爆炸後今年仍可復飛，NASA Artemis 時程承壓
+- Apple Siri AI 延續 WWDC 後的期待與質疑
+- Windows 11 六月更新修補 BitLocker 存取漏洞與三個零日
+- 今日 biotech 未見足夠可驗證的旗艦科技事件
+- openclaw/openclaw
+- langchain-ai/langchain
+- huggingface/transformers
+- Publishing WASM wheels to PyPI for use with Pyodide
+- Mapping SQLite result columns back to their source table.column
+- What Washington must do  [63,803.99 美元 / 64,421.32 美元 / 0.96%]
+
+## 2026-06-14
+- 美國管制 Anthropic 旗艦模型，AI 出口管制從晶片走到模型服務
+- Coinbase 量子風險報告點名重複使用地址，比特幣冷錢包治理壓力升高
+- Windows 零日揭露爭議延燒，研究者再公開 RoguePlanet 與 GreatXML
+- Anthropic 管制事件讓模型主權問題升級
+- Gary Marcus 批評白宮 AI 政策混亂，州政府可能補上監管空缺
+- OpenAI WebRTC 音訊工具加入文件脈絡，語音模型應用往工作流靠攏
+- langchain-openai 1.3.2 發布，工具呼叫相容性小版修補延續
+- OpenClaw v2026.6.8-alpha.2 延續 agent runtime 快速迭代
+- 現貨比特幣 ETF 結束五日淨流出，單日流入 8580 萬美元  [8580 萬 / 5770 萬 / 1800 萬]
+- AI 速度進入加密攻擊面，下一個十億美元級駭客可能更快出手
+- SpaceX IPO 敘事牽動 13 億美元比特幣部位討論  [13 億]
+- 穩定幣被批評變成閒置現金，支付與收益場景仍未完全打開
+- AI 推高醫療帳單的討論升溫，效率承諾遇到成本轉嫁問題
+- AI coding at home without going broke 成為開發者成本焦點
+- Apple Siri AI 延續 WWDC 後評價分歧，投資人仍等秋季 beta
+- Check Point VPN 漏洞遭 Qilin 勒索軟體利用，IKEv1 舊協定再成風險焦點
+- langchain-ai/langchain
+- pytorch/pytorch
+- openclaw/openclaw
+- The White House’s shambolic AI policy
+- OpenAI WebRTC Audio Session, now with document context
+- The adder at the heart of Intel's 8087 floating-point chip  [64,237.04 美元 / 63,543.20 美元]
+- BTC/USD  [64,237.04 美元 / 63,543.20 美元 / 1.09%]
+- ETH/USD  [1,676.61 美元 / 1,665.13 美元 / 0.69%]
+- Gold / WTI / Brent
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
