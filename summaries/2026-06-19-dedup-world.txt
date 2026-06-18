@@ -1,0 +1,50 @@
+# Past 3 days world dedup digest
+
+## 2026-06-17
+- G7 重新把焦點拉回烏克蘭，Trump 暗示俄油制裁可快速恢復
+- 伊朗稱美伊和平取決於以色列撤出黎巴嫩，Netanyahu 反稱不撤
+- 剛果 Bundibugyo Ebola 升至 782 例、181 死，接觸追蹤只達 56%  [23% / 90%]
+- 美國 B-52 測試飛行墜毀，8 人死亡並牽動老化轟炸機升級風險  [8 人]
+- 哥倫比亞決選前，安全政策成 Cepeda 與 De la Espriella 最大分歧  [43.7% / 40.9%]
+- Kyiv-Pechersk Lavra 遭俄無人機攻擊，G7 防空援助壓力升高  [11 人]
+- 英國未滿 16 歲社群禁令遭身障倡議者警告：可能切斷支持網絡
+- 歐洲議會終於批准 Trump 關稅協議，15% 對美出口稅率換取穩定性  [15% / 0% / 0%]
+- 德國總統在 Manila 稱南海緊張讓歐洲擔心，借 Hormuz 警告航道風險
+- 中國入境制裁菲國防長後，南海個人制裁變成外交工具
+- 台灣 HIMARS 首度朝台海方向實射後，美中台軍售壓力仍未退
+- Pakistan-administered Kashmir 抗議升級，JAAC 遭禁後仍牽動 12 席難民席位爭議
+- UNICEF 報告稱印度約 3.92 億兒童暴露於極端高溫  [3.92 億 / 92% / 8,900 萬]
+- 美伊框架雖讓荷姆茲恢復通行，但 Lebanon 條款仍可能讓協議卡住
+- Congo Ebola 外溢風險升高，Ituri 衝突與礦工流動讓追蹤變難  [90%]
+- Sahel 兒童面臨熱浪、極端高溫與沙塵暴三重氣候威脅  [10 億 / 400 萬]
+- 澳洲 High Court 敗訴後，逾 350 名 indefinite detention non-citizens 可能求償
+- Papua New Guinea 兒童游過有鱷魚河流上學，UNICEF 把它列為氣候基礎設施失靈案例
+- Australia-Solomon Islands 安全重設延續，policing 與 comprehensive treaty 成對中競爭長線  [3,500 萬]
+- 全球兒童氣候風險報告：超過 10 億兒童面對至少三種重疊 hazard
+
+## 2026-06-16
+- 美伊 60 天框架協議讓 Hormuz 重開，但以色列與伊朗強硬派都留下破口  [20%]
+- 俄羅斯對 Kyiv 發動大規模空襲，修道院與文化設施受損  [5 人]
+- 剛果東部 Ebola 升至 782 例、181 死，Bundibugyo 型缺疫苗  [23% / 90% / 56%]
+- 美伊協議壓低油價，但 WSJ 警告能源波動不會立刻消失  [80 美元]
+- Colombia 決選前，Cepeda 與 Petro 的舞弊敘事保持距離
+- Trump 對 Brazil 關稅與 Amazon 議題仍卡在貿易、環保雙線  [25%]
+- Macron 在 Évian G7 設法留住 Trump，Ukraine、Gaza、Iran 與中國產能同桌
+- 英國宣布 16 歲以下社群平台禁令，科技公司警告孩子會被推向地下平台  [90%]
+- 全球教育攻擊兩年增 40%，Ukraine 與 Palestine 成高風險樣本
+- Xi 訪 Pyongyang 後，中朝重啟同盟但避談核問題
+- South Korea 前總統 Yoon 的 drone case 仍是東亞政治延續線
+- 台灣 HIMARS 首度朝台海方向實射後，美中台軍售壓力未退
+- Pakistan-administered Kashmir 抗議外溢，diaspora 與 Baloch groups 把議題國際化
+- Philippines 與 South China Sea 個人制裁口水戰延續
+- Israel 拒絕撤出 Lebanon，使美伊框架的「全 фрон線停火」先天不足
+- Gaza 停火、Hamas disarmament 與重建仍被 G7 外交綁在一起
+- Ethiopia election 仍受 Oromia、Amhara 安全問題拖累
+- Australia indefinite detention 高院敗訴，逾 350 名 non-citizens 可能求償
+- Australia-Solomon Islands 安全重設仍是 Pacific 競爭長線議題  [2% / 80%]
+- NOAA 確認 El Niño 形成，63% 機率成為 1950 年以來最強級別之一  [63%]
+- 能源與黃金報價只採新鮮但非今日資料  [81.43 美元 / 4.06% / 83.77 美元]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
