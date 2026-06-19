@@ -1,0 +1,59 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-19
+- Ollama v0.30.10 讓 Command A 與 North family 模型在 Apple Silicon 走 MLX
+- PyTorch XPU FlashAttention 支援更多 head dimension
+- Fed 擬要求 stablecoin 發行商維持客戶識別計畫
+- Hugging Face 問「Beyond LoRA」：微調路線開始重新比較成本與效果
+- Hugging Face 推出「Is it agentic enough?」工具化 benchmark 討論
+- Gary Marcus 批評白宮對 Anthropic 的政策期待不切實際
+- OpenClaw v2026.6.9-alpha.6 延續 agent runtime 快速迭代
+- CrewAI 1.14.8a 把 FlowDefinition 擴到 script/code block 與 DMN mode
+- Alchemy 發表 Visa-powered AgentCard，讓 AI agents 可用虛擬卡支付
+- The DAO hack 十週年：從 5,000 萬美元漏洞到 1.3 億美元 Ethereum security fund  [360 萬 / 1.3 億]
+- Ethereum Foundation co-Executive Director Hsiao-Wei Wang 辭任董事與共同執行董事
+- Kraken 把 Solana DEX trading 放進核心 app
+- HIVE 與 Bell 簽 2.2 億美元 AI GPU 合約，預估年收入 7,000 萬美元
+- Aztec 調查已停用支付產品的 200 萬美元 exploit
+- PyTorch Inductor 修正 kernel-free graph 的 cudagraph capture 邊界
+- 蔚來把新版世界模型推到 18 款 NT2.0/NT2.5/NT3.0 車型
+- 中國推進「人工智慧+消費」17項舉措，物流與出行場景先落地
+- SpaceX 完成 AST SpaceMobile BlueBird 8/9/10 發射，Dragon CRS-34 也返航
+- NASA 選 Relativity Space 執行 2028 Mars orbital mission
+- 愛瑪黑翼推出三款運動電動兩輪車，瞄準男性性能市場
+- 英國企業資安危機顯示 AI 不是唯一問題，基礎控管仍是主因  [20 億]
+- Legacy OT systems 面對現代威脅，製造業不能只靠隔離假設
+- FDA 對 UniQure Huntington’s gene therapy 轉向，帶動 biotech 風險偏好回升  [78.4% / 93% / 86%]
+- ollama/ollama
+- pytorch/pytorch
+
+## 2026-06-17
+- Ollama v0.30.9-rc2 讓 context shift 支援 shiftable prompts
+- PyTorch XPU CI 修掉 mm_plus_mm Triton disable 的下游測試失敗
+- Coinbase System Update 把 AI advisor、全球流動性與 tokenized stocks 包進同一套交易介面
+- Fable 5 出口管制爭議轉向資安防禦能力問題
+- Qwen3.6-27B 被 llama.cpp 維護者拿來做日常 coding work
+- OpenClaw 2026.6.8 把 Telegram、WhatsApp 與 CLI delivery 做得更不脆弱
+- langchain-openai 1.3.2 維持工具呼叫相容性小版修補
+- Pump.fun activity 三個月跌 80%，Solana fee 壓力轉向 perps 敘事  [80% / 40%]
+- Squid 將 Ripple RLUSD 接入 cross-chain swaps
+- Bitcoin DeFi TVL 從約 1,800 億美元降到 700 億美元，需求集中在小而深的口袋  [1,800 億 / 700 億]
+- BlackRock 推出 covered call 策略的 Bitcoin income ETF
+- 鴻蒙智行引入二供電池，問界供應鏈從寧德時代獨供走向多元化
+- 大曉機器人稱 Kairos 3.0 在四項具身智能 benchmark 取得 SOTA  [100 萬]
+- OBSBOT 尋影在高端 Webcam 市占率超過 50%，連五年每年成長 50%  [50% / 50%]
+- EvilTokens 用 Microsoft 合法驗證流程做 phishing，不必偷密碼也能入侵帳號
+- ollama/ollama
+- pytorch/pytorch
+- openclaw/openclaw
+- Fable 5 管制與美國資安防禦能力
+- Qwen3.6-27B 的本機 coding workflow 訊號
+- EvilTokens 提醒 phishing 正在從密碼竊取轉向 token 與授權濫用
+- BTC/USD  [65,587.87 美元 / 1.06% / 1,792.13 美元]
+- ETH/USD  [1,792.13 美元 / 0.16% / 4,358.30 美元]
+- Gold  [4,358.30 美元 / 0.70% / 76.23 美元]
+- WTI Crude  [76.23 美元 / 5.60% / 79.74 美元]
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
