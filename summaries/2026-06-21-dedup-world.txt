@@ -1,0 +1,50 @@
+# Past 3 days world dedup digest
+
+## 2026-06-20
+- Israel-Hezbollah 傳出停火，但美伊核談判一開局就被 Lebanon 戰火拖慢  [47 人]
+- EU 稱 Ukraine 入盟與戰場都迎來轉折，但 900 億歐元貸款與擴大談判仍有內部阻力  [900 億]
+- Congo Ebola 前線醫護已有 75 人感染、17 人死亡，疫情從公共衛生危機變成醫療系統危機  [17 人]
+- 美國多州挑戰 Trump 限縮 mail-in voting 的訴訟可繼續進行
+- Mexico 擊敗 South Korea，成為 2026 World Cup 第一支晉級淘汰賽球隊  [45,522 人]
+- Canada 6-0 擊敗 Qatar 拿下男足 World Cup 首勝，但 Ismaël Koné 重傷壓過慶祝氣氛
+- EU summit 同時處理 Ukraine、2028–2034 預算與移民外包，內部分歧沒有因對俄一致而消失
+- Meloni 駁斥 Trump 稱她「begged for a photo」，義美外交尷尬升高
+- Barnier 稱英國若重返 EU 可能保留英鎊與 Schengen opt-out，重燃 Brexit 十週年辯論
+- Taiwan top envoy 對 AP 表示台灣不會等「U.S. cavalry」，但 140 億美元軍售仍卡在 Washington-Beijing 節奏裡  [140 億]
+- Japan-South Korea-China 三角仍被 Taiwan 與供應鏈安全牽動
+- Pakistan 以中國製 PNS Hangor 重啟遠洋敘事，Bay of Bengal 可能成新焦點
+- Pakistan-administered Kashmir 抗議壓力外溢到倫敦，British Kashmiris 在 Westminster 外集會
+- Vance 瑞士行延後，美伊技術談判先卡在停火執行而非核細節
+- Lebanon ceasefire 若不能落地，Washington 6月23到25日的 Israel-Lebanon talks 也會被拖累
+- Sudan 前五個月 drone strikes 殺逾 1,000 名平民，UN 指控戰爭科技化加劇暴行  [600% / 81%]
+- Kenya 將補償近 2,000 名 violent protests 受害者，總額約 1,500 萬美元
+- Somalia 美軍 drone strike 調查指向 civilian deaths，Trump 第二任期 rules of engagement 再受檢視  [8 人]
+- Solomon Islands 新總理將 review 與 China 的 secretive security treaty，Australia 爭取重新成為首要 security partner
+- Popa Android botnet 被指連到 Israeli listed firm 旗下 residential proxy provider
+
+## 2026-06-19
+- 美伊 14 點 MoU 正式簽署，但黎巴嫩與加薩戰火立刻測試停火邊界  [3 人]
+- 烏克蘭無人機打到莫斯科煉油廠，G7 同意讓 Kyiv 在地生產防空與長程飛彈
+- 剛果與烏干達 Bundibugyo Ebola 一週增近 40%，死亡突破 200  [40%]
+- 美國最高法院 9 比 0 支持大麻使用者持槍權，槍權判例再往外擴
+- Fed 在 Kevin Warsh 時代改寫政策聲明，132 字短文取代 Powell 式長聲明  [2%]
+- 哥倫比亞決選前，Cepeda 與 De la Espriella 共享同一個恐懼：回到暴力年代
+- EU 悄悄重啟與 Russia 溝通，避免 Ukraine 談判被美俄雙邊化
+- Bank of England 維持利率 3.75%，警告英國今年生活成本仍會上升  [2.8% / 3.25% / 2%]
+- 歐洲議會批准 Trump 關稅協議後，15% 對美出口稅率成穩定但不舒服的新常態  [15% / 0%]
+- Putin 在 Kazan 與 ASEAN 領袖強化合作，Russia 對東南亞打出多極秩序牌
+- 日本與南韓加速靠攏，區域盟友試圖降低 Trump 外交不可預測性
+- Alexander Yui 對 AP 表示台灣需要美國武器自衛，140 億美元軍售仍卡在美中談判陰影下  [140 億]
+- Pakistan 接收中國製 PNS Hangor，研議 1971 年後重返 Bay of Bengal
+- Russia-ASEAN summit 讓東南亞在美中俄之間保持多邊避險
+- 荷姆茲協議讓油價下跌，但船東與市場仍怕協議破局  [2% / 77.71 美元 / 74.08 美元]
+- 美國 State Department 對中東安全風險發警示，外交降溫不等於旅行風險解除
+- FAO/WFP 警告 13 個飢餓 hot spots 6 到 11 月惡化，2.66 億人面臨高度糧食不安全  [2.66 億 / 59%]
+- Sudan 前 5 個月無人機攻擊殺逾 1,000 名平民，UN 指控戰爭科技化加劇暴行  [600% / 81%]
+- Australia indefinite detention 後續壓力未退，Nauru 與境內拘留政策仍受人權檢視  [1,000 人]
+- Pacific 安全競爭進入制度化階段，Australia-Solomon Islands reset 仍是對中競爭長線
+- SpaceX 股價回落但商業太空競爭升溫，Relativity Space 拿下 NASA 2028 Mars orbital mission
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
