@@ -1,0 +1,86 @@
+# Past 3 days tech dedup digest
+
+## 2026-06-21
+- OpenAI Codex 推出 Record & Replay，把一次示範轉成可重複技能
+- AI 讓 crypto security 更便宜、更快，也讓審計責任更難迴避
+- AMD 7月 BIOS 更新將讓 Ryzen 9000 CPU 恢復 TSME 記憶體加密
+- Hugging Face Transformers v5.12.1 修補 PEFT 下限與 Mistral tokenizer 解析
+- Ollama v0.30.10 讓 Command A 與 North family 模型在 Apple Silicon 使用 MLX engine
+- EU 對 deepfake 定義不清，零售 AI 生成廣告先踩到治理灰區  [90%]
+- OpenClaw v2026.6.20-alpha.1 延續 agent runtime 快速迭代
+- MCP 的價值被重新界定為 auth gateway，而不只是工具描述格式
+- CrewAI 1.14.8a2 加入 single agent action 與 Flow CEL 驗證
+- Strategy preferred-stock meltdown 時間線凸顯 crypto credit 的流動性風險  [100 美元]
+- Charles Schwab 與 Cboe 擬推 S&P 500 yes-or-no binary options
+- Andre Cronje 等三人退出 Sonic Labs board，S token 較高點低 97%  [97%]
+- UK Home Office 啟動 7,500萬英鎊 PoliceAI，公共安全 AI 進入採購壓力測試  [7,500萬]
+- PostgresBench 推出可重現的 Postgres service benchmark
+- Bun 開 PR 嘗試把 shared-memory threads 加進 JavaScriptCore
+- ArgusRed 展示「不拒絕」的 AI pentest model，引發攻防工具邊界爭議
+- ScienceDaily：哺乳動物再生身體部位的能力可能是 dormant，而非消失
+- openclaw/openclaw
+- huggingface/transformers
+- ollama/ollama
+- Quoting Sean Lynch
+- PostgresBench: A Reproducible Benchmark for Postgres Services
+- The EU doesn't really know what a deepfake is
+- BTC/USD  [63,879.61 美元 / 0.53% / 6 萬]
+- ETH/USD  [1,728.98 美元 / 1.05%]
+
+## 2026-06-20
+- Popa Android botnet 被指連到以色列上市公司旗下住宅代理服務
+- Base 鎖定 6月25日啟動 Beryl 主網升級與 B20 token standard
+- MIT Technology Review 聚焦 LLM bottleneck 與 BCI trial 起飛
+- PyTorch Dynamo RangeVariable 專門化 symbolic range bounds
+- PyTorch 新增 distributed backend implementation accessor
+- Datasette Apps 讓自訂 HTML 應用跑在 Datasette sandbox iframe 內
+- OpenClaw v2026.6.19-alpha.2 繼續快速迭代 agent runtime
+- LangChain core 1.4.8 修補依賴與 classic 模組整理
+- CrewAI 1.14.8a2 加入 single agent action 與 Flow CEL 驗證
+- CME 與 CFTC 的 crypto perpetual futures 訴訟，TD Cowen 判斷 CME 暫占上風
+- Ethereum 核心開發資金被警告可能在 3 到 9 個月內吃緊
+- Strive CEO 稱 STRC/SATA selloff 由 leverage liquidation 推動  [100 美元]
+- 兩名德州兄弟承認 800 萬美元加密貨幣持槍搶劫與綁架案  [800 萬]
+- 安踏發布「折紙科技」，把跑鞋緩震從材料競賽推向結構設計
+- 浙江首個「500千伏+220千伏」子母變電站投運
+- AI 陪伴機器人 ZuzuZoos 完成數千萬元 Pre-A 輪融資
+- ESET 拆解 Gentlemen ransomware gang 的 EDR killer framework
+- openclaw/openclaw
+- langchain-ai/langchain
+- crewAIInc/crewAI
+- Datasette Apps: Host custom HTML applications inside Datasette
+- The Download: AI bottleneck debates, and BCI trials take off
+- Popa Botnet Linked to Publicly-Traded Israeli Firm  [63,008.94 美元]
+- BTC/USD  [63,008.94 美元 / 0.18% / 6 萬]
+- ETH/USD  [1,701.49 美元 / 0.47% / 4,172.90 美元]
+
+## 2026-06-19
+- Ollama v0.30.10 讓 Command A 與 North family 模型在 Apple Silicon 走 MLX
+- PyTorch XPU FlashAttention 支援更多 head dimension
+- Fed 擬要求 stablecoin 發行商維持客戶識別計畫
+- Hugging Face 問「Beyond LoRA」：微調路線開始重新比較成本與效果
+- Hugging Face 推出「Is it agentic enough?」工具化 benchmark 討論
+- Gary Marcus 批評白宮對 Anthropic 的政策期待不切實際
+- OpenClaw v2026.6.9-alpha.6 延續 agent runtime 快速迭代
+- CrewAI 1.14.8a 把 FlowDefinition 擴到 script/code block 與 DMN mode
+- Alchemy 發表 Visa-powered AgentCard，讓 AI agents 可用虛擬卡支付
+- The DAO hack 十週年：從 5,000 萬美元漏洞到 1.3 億美元 Ethereum security fund  [360 萬 / 1.3 億]
+- Ethereum Foundation co-Executive Director Hsiao-Wei Wang 辭任董事與共同執行董事
+- Kraken 把 Solana DEX trading 放進核心 app
+- HIVE 與 Bell 簽 2.2 億美元 AI GPU 合約，預估年收入 7,000 萬美元
+- Aztec 調查已停用支付產品的 200 萬美元 exploit
+- PyTorch Inductor 修正 kernel-free graph 的 cudagraph capture 邊界
+- 蔚來把新版世界模型推到 18 款 NT2.0/NT2.5/NT3.0 車型
+- 中國推進「人工智慧+消費」17項舉措，物流與出行場景先落地
+- SpaceX 完成 AST SpaceMobile BlueBird 8/9/10 發射，Dragon CRS-34 也返航
+- NASA 選 Relativity Space 執行 2028 Mars orbital mission
+- 愛瑪黑翼推出三款運動電動兩輪車，瞄準男性性能市場
+- 英國企業資安危機顯示 AI 不是唯一問題，基礎控管仍是主因  [20 億]
+- Legacy OT systems 面對現代威脅，製造業不能只靠隔離假設
+- FDA 對 UniQure Huntington’s gene therapy 轉向，帶動 biotech 風險偏好回升  [78.4% / 93% / 86%]
+- ollama/ollama
+- pytorch/pytorch
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
