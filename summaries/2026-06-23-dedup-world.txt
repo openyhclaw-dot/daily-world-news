@@ -1,0 +1,71 @@
+# Past 3 days world dedup digest
+
+## 2026-06-22
+- 伊朗把荷姆茲海峽與黎巴嫩戰火綁在一起，美伊談判再被拖回危機邊緣  [20%]
+- 哥倫比亞總統決選開票前，和平路線與強硬軍事路線正面對決  [4,100 萬]
+- Brexit 十年，歐洲民意反而更支持英國靠近歐盟  [66% / 52% / 4%]
+- USPS 擬把郵寄選票與州 voter list 綁定，期中選舉前的州權衝突升高
+- 哥倫比亞決選把拉美右轉趨勢推到安地斯政治核心
+- 英國脫歐十年後，經濟、移民與安全三條線都在重新拉近歐洲  [75%]
+- 烏克蘭議題從短期援助轉向共同生產與防空能力
+- 台海軍事訊號進入「實彈展示 + 軍購等待」並行狀態  [140 億]
+- 日韓中三角仍受台灣與供應鏈安全牽動  [2% / 80% / 2%]
+- 俞大㵢稱台灣不等「美國騎兵」，但仍需要美國武器補足嚇阻  [140 億]
+- 巴基斯坦考慮以中國製 PNS Hangor 重返孟加拉灣，印度高度關注
+- 俄羅斯與 ASEAN 在喀山峰會強化戰略合作
+- 加薩空襲擊殺 Hamas 財務網路成員，以色列把資金流列為軍事目標  [5 億 / 1.7 億]
+- 黎巴嫩戰場成美伊談判最大外部變數
+- 蘇丹無人機戰平民死亡破千，UN 指控問責真空擴大  [600% / 81%]
+- 剛果 Ebola 前線醫護 75 人感染、17 人死亡，WHO 警告醫療系統被直接打穿  [17 人 / 56%]
+- 美軍在索馬利亞的無人機戰遭 Guardian 調查追問平民傷亡
+- 澳洲把部分非公民送往 Nauru 的政策，從移民管理變成人權與家庭分離爭議  [350 人 / 131 人 / 63 人]
+- Nauru 罕見回應澳洲轉送非公民待遇指控，太平洋外包制度再受檢視  [25 億]
+- AI agent 企業化從「能做」轉向「能管」
+- Crypto 監管與鏈上安全同日升溫：perps 法律定義、MEV 反制、跨鏈 exploit 並行  [750 萬 / 467 萬]
+
+## 2026-06-21
+- Iran 宣布關閉 Strait of Hormuz，Lebanon 戰火把美伊 60 天談判推到壓力測試
+- Colombia runoff 被 paramilitary 歷史籠罩，Cepeda 與 De la Espriella 成為兩種安全路線的對決
+- CDC 動用 1.07 億美元支援 DRC 與 Uganda Ebola，疫情從地方 outbreak 變成國際公共衛生壓力  [1.07 億]
+- Iran World Cup 團隊抗議 travel rule，但 AP 指出這不完全是獨有待遇
+- Trump voting rights offensive 讓美國 midterm 前的州權與選權衝突升溫
+- Brexit 十年後，EU 反而更像安全與擴大共同體
+- G7 後的 Ukraine 討論從「援助」轉向「共同生產防空與長程能力」
+- Taiwan arms sale 仍卡在 Washington-Beijing 節奏，Lai 與 Yui 都把自衛支出放到前台  [140 億]
+- South Korea weapons business 在 Trump 時代升溫，防衛產業成東亞外交籌碼
+- Taiwan HIMARS live-fire 與 140 億美元軍售議題相互強化 asymmetric defense 敘事
+- Pakistan 研議以中國製 PNS Hangor 重返 Bay of Bengal，India 關注海軍軸線東移
+- Iran World Cup logistics 把美伊戰爭後的安全限制帶進球場
+- Israel-Hezbollah renewal ceasefire 是「宣布停火」不是「戰場靜止」  [47 人]
+- Trump 威脅若 final Iran deal 60 天內未成，將對 Hormuz 收取 U.S. tolls
+- Sudan drone war 的平民代價仍在擴大，UN/ACLED 數字讓 accountability 壓力升高  [600% / 81%]
+- Kenya 1,500 萬美元 reparations process 可能修補 protest violence，也可能稀釋問責  [1,500 萬]
+- Solomon Islands review China security treaty，Australia 重新爭取 Pacific security partner of choice
+- Schwab/Cboe 擬推 S&P 500 binary options，prediction-market-style products 進入傳統券商通道
+- UK PoliceAI 7,500 萬英鎊採購把 public safety AI 的偏誤與監督問題推上檯面  [7,500萬]
+
+## 2026-06-20
+- Israel-Hezbollah 傳出停火，但美伊核談判一開局就被 Lebanon 戰火拖慢  [47 人]
+- EU 稱 Ukraine 入盟與戰場都迎來轉折，但 900 億歐元貸款與擴大談判仍有內部阻力  [900 億]
+- Congo Ebola 前線醫護已有 75 人感染、17 人死亡，疫情從公共衛生危機變成醫療系統危機  [17 人]
+- 美國多州挑戰 Trump 限縮 mail-in voting 的訴訟可繼續進行
+- Mexico 擊敗 South Korea，成為 2026 World Cup 第一支晉級淘汰賽球隊  [45,522 人]
+- Canada 6-0 擊敗 Qatar 拿下男足 World Cup 首勝，但 Ismaël Koné 重傷壓過慶祝氣氛
+- EU summit 同時處理 Ukraine、2028–2034 預算與移民外包，內部分歧沒有因對俄一致而消失
+- Meloni 駁斥 Trump 稱她「begged for a photo」，義美外交尷尬升高
+- Barnier 稱英國若重返 EU 可能保留英鎊與 Schengen opt-out，重燃 Brexit 十週年辯論
+- Taiwan top envoy 對 AP 表示台灣不會等「U.S. cavalry」，但 140 億美元軍售仍卡在 Washington-Beijing 節奏裡  [140 億]
+- Japan-South Korea-China 三角仍被 Taiwan 與供應鏈安全牽動
+- Pakistan 以中國製 PNS Hangor 重啟遠洋敘事，Bay of Bengal 可能成新焦點
+- Pakistan-administered Kashmir 抗議壓力外溢到倫敦，British Kashmiris 在 Westminster 外集會
+- Vance 瑞士行延後，美伊技術談判先卡在停火執行而非核細節
+- Lebanon ceasefire 若不能落地，Washington 6月23到25日的 Israel-Lebanon talks 也會被拖累
+- Sudan 前五個月 drone strikes 殺逾 1,000 名平民，UN 指控戰爭科技化加劇暴行  [600% / 81%]
+- Kenya 將補償近 2,000 名 violent protests 受害者，總額約 1,500 萬美元
+- Somalia 美軍 drone strike 調查指向 civilian deaths，Trump 第二任期 rules of engagement 再受檢視  [8 人]
+- Solomon Islands 新總理將 review 與 China 的 secretive security treaty，Australia 爭取重新成為首要 security partner
+- Popa Android botnet 被指連到 Israeli listed firm 旗下 residential proxy provider
+
+以上是過去 3 天已充分報導的故事，**預設一律不進新事區**。
+有 1 句新 fact → 延續區（1 句封頂）；發生類別變化事件 → 深度區（每集最多 1 則）；
+其他 → 直接刪除。詳見 SKILL.md「三區制」與「類別變化事件清單」。
